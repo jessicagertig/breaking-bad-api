@@ -1,0 +1,19 @@
+[
+    {
+        "death_id": 1,
+        "character": "Walter White",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/9/9e/Walt%27s_Death.png/revision/latest?cb=20221121191611"
+        "cause": "M60 Machine Gun & Cancer",
+        "details": "Accidentally hit by a ricocheting bullet fired by his remote-activated M60 machine gun while trying to protect Jesse, and his body already being in a weakened state from his returned cancer, bled out and died in Jack's gang's meth lab as police arrived on the scene and surrounded him.",
+        "responsible": [
+            "Walter White"
+        ],
+        "connected": [
+            "Jesse Pinkman",
+            "Jack Welker"
+        ]
+        "last_words": "Well, erm... goodbye, Lydia.",
+        "episode": 516,
+        "production": "Breaking Bad"
+    }
+]

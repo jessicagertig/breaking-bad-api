@@ -1,0 +1,492 @@
+[
+    {
+        "quote_id": 1,
+        "quote": "I am not in danger, Skyler. I am the danger!",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 2,
+        "quote": "Stay out of my territory.",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 3,
+        "quote": "IFT",
+        "character": "Skyler White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 4,
+        "quote": "I watched Jane die. I was there. And I watched her die. I watched her overdose and choke to death. I could have saved her. But I didn’t.",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 5,
+        "quote": "Say my name.",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 6,
+        "quote": "Congratulations, you’ve just left your family a second-hand Subaru.",
+        "character": "Saul Goodman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 7,
+        "quote": "Yeah, you do seem to have a little s*** creek action going... You know, FYI, you can buy a paddle.",
+        "character": "Saul Goodman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 8,
+        "quote": "Tread lightly.",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 9,
+        "quote": "Funyuns are awesome.",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 10,
+        "quote": "Ooooooh, wire.",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 11,
+        "quote": "A robot?!",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 12,
+        "quote": "What good is being an outlaw when you have responsibilities.",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 13,
+        "quote": "You forgot your ice trays! YOU'RE GONNA NEED THE ICE TRAYS!",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 14,
+        "quote": "Yeah, and thanks, Daddy Warbucks, but that was before my housing situation went completely testicular on me, okay?",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 15,
+        "quote": "How am I supposed to live here now, huh? My whole house smells like toe cheese and dry cleaning.",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 16,
+        "quote": "I'm a blow fish! Yeah, Blow fishin' this up!",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 17,
+        "quote": "Yeah, totally Kafkaesque.",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 18,
+        "quote": "We make poison for people who don’t care. We probably have the most unpicky customers in the world.",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 19,
+        "quote": "You don’t need a criminal lawyer. You need a criminal lawyer.",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 20,
+        "quote": "Oh well, heil Hitler, b****!",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 21,
+        "quote": "Yeah, science!",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 22,
+        "quote": "Yeah, b****! Magnets!",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 23,
+        "quote": "Yo 148, 3-to-the-3-to-the-6-to-the-9. Representin’ the ABQ. What up, biatch? Leave it at the tone!",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 24,
+        "quote": "Jesus Christ, Marie. They're minerals!",
+        "character": "Hank Schrader",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 25,
+        "quote": "My name is Skyler White, yo.",
+        "character": "Skyler White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 26,
+        "quote": "Someone has to protect this family, from the man that protects this family.",
+        "character": "Skyler White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 27,
+        "quote": "Shut up! Shut up! Shut up!",
+        "character": "Skyler White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 28,
+        "quote": "I'm waiting for the cancer to come back.",
+        "character": "Skyler White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 29,
+        "quote": "I can't remember the last time I was happy.",
+        "character": "Skyler White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 30,
+        "quote": "You're my free pass.... Bitch!",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 63,
+        "quote": "Chemistry is the study of matter, but I prefer to see it as the study of change.",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 64,
+        "quote": "You asked me if I was in the meth business or the money business. Neither. I am in the empire business.",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 65,
+        "quote": "Smoking marijuana, eating cheetos, and masturbating do not constitute plans in my book.",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 66,
+        "quote": "I did it for me. I liked it. I was good at it. And I was really... I was alive.",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 67,
+        "quote": "We're done when I say we're done.",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 68,
+        "quote": "Did you not plan for this contingency? I mean, the Starship Enterprise had a self-destruct button.",
+        "character": "Saul Goodman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 69,
+        "quote": "There's no honor among thieves... Except for us of course.",
+        "character": "Saul Goodman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 70,
+        "quote": "Don't drink and drive. But if you do, call me.",
+        "character": "Saul Goodman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 71,
+        "quote": "Some people are immune to good advice.",
+        "character": "Saul Goodman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 72,
+        "quote": "You either run from things, or you face them, Mr. White.",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 73,
+        "quote": "You add a plus douche bag to a minus douche bag and you get, like, zero douche bags.",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 74,
+        "quote": "Yeah, totally Kafkaesque.",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 75,
+        "quote": "Hey, you girls. Want to meet my fat stack?",
+        "character": "Jesse Pinkman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 76,
+        "quote": "Everyone sounds like Meryl Streep with a gun to their head.",
+        "character": "Mike Ehrmantraut",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 77,
+        "quote": "The next time you bring a gun to a job without telling me, I will stick it up your ass sideways.",
+        "character": "Mike Ehrmantraut",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 78,
+        "quote": "You know how they say, 'It's been a pleasure?' It hasn't.",
+        "character": "Mike Ehrmantraut",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 79,
+        "quote": "Big doings today. The order of the day is 'eyes open, mouth shut.'",
+        "character": "Mike Ehrmantraut",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 80,
+        "quote": "You're an insane, degenerate piece of filth, and you deserve to die.",
+        "character": "Walter White",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 81,
+        "quote": "You two suck at peddling meth.",
+        "character": "Saul Goodman",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 82,
+        "quote": "May his death satisfy you.",
+        "character": "Gus Fring",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 83,
+        "quote": "La familia es todo.",
+        "character": "Hector Salamanca",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 84,
+        "quote": "I will kill your wife, I will kill your son, I will kill your infant daughter.",
+        "character": "Gus Fring",
+        "production": "Breaking Bad",
+        "episode": 000
+    },
+    {
+        "quote_id": 85,
+        "quote": "It’s discreet, like a stripper pole in a mosque.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 86,
+        "quote": "I'm a lawyer, not a criminal.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 87,
+        "quote": "Only two things I know about Albuquerque – Bugs Bunny should’ve taken a left turn there. And give me a hundred tries, I’ll never be able spell it.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 88,
+        "quote": "I am not good at Building Shit, you know I’m excellent at Tearing it down.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 89,
+        "quote": "I know what stopped me. And you know what? It’s never stopping me again.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 90,
+        "quote": "Perfection is the Enemy of Perfectly Adequate.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 91,
+        "quote": "Hail Satan. I submit to the dark side.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 92,
+        "quote": "There’s no honor among thieves… except for us of course.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 93,
+        "quote": "Some people are immune to good advice.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 94,
+        "quote": "Money is the Point.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 95,
+        "quote": "You Know the expression it’s been a pleasure... well it hasn’t.",
+        "character": "Mike Ehrmantraut",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 96,
+        "quote": "Winning Doesn’t Always Mean Getting a Favorable Verdict at Trial.",
+        "character": "Kim Wexler",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 97,
+        "quote": "You know what happened. The question is, can you live with it?",
+        "character": "Mike Ehrmantraut",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 98,
+        "quote": "Slippin’ Jimmy with a law degree is like a chimp with a machine gun.",
+        "character": "Chuck McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 99,
+        "quote": "No one ever accused you of being lazy.. every other sin in the book, but not that one.",
+        "character": "Chuck McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 100,
+        "quote": "FYI, old people adore me.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 101,
+        "quote": "I'm gonna be a damn good lawyer, and people are gonna know about it.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    },
+    {
+        "quote_id": 102,
+        "quote": "S'all good, man.",
+        "character": "Jimmy McGill",
+        "production": "Better Call Saul",
+        "episode": 000
+    }
+]
