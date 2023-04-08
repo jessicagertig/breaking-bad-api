@@ -13,18 +13,19 @@
             "Walter White",
             "Jesse Pinkman",
             "Skyler White",
-            "Hank Schrader",
-            "Marie Schrader",
             "Walter White Jr.",
-            "Krazy-8",
-            "Emilio",
-            "Steve Gomez",
-            "Bogdan Wolynetz",
-            "Dr. Belknap",
-            "Carmen Molina",
+            "Ben",
             "Chad",
             "Chad's Girlfriend",
-            "Ben",
+            "Bogdan",
+            "Carmen",
+            "Marie Schrader",
+            "Hank Schrader",
+            "Steve Gomez",
+            "E.M.T.",
+            "Dr. Belknap",
+            "Krazy-8",
+            "Emilio",
             "Jock"
         ]
     },
@@ -40,12 +41,12 @@
         "air_date": "01-27-2008",
         "characters": [
             "Walter White",
-            "Jesse Pinkman",
             "Skyler White",
+            "Jesse Pinkman",
             "Walter White Jr.",
+            "Ben",
             "Krazy-8",
-            "Emilio",
-            "Ben"
+            "Emilio"
         ]
     },
     {

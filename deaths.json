@@ -1,6 +1,20 @@
 [
     {
         "death_id": 1,
+        "character": "Emilio",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/4/44/1x1_Walt_kills_Emilio_2.png/revision/latest?cb=20120702024608"
+        "cause": "Phosphine Gas",
+        "details": "Poisoned by phosphine gas created by mixing red phosphorus with hot water to save the lives of Walter White and Jesse Pinkman.",
+        "responsible": [
+            "Walter White"
+        ],
+        "connected": []
+        "last_words": "I say we cap 'em both.",
+        "episode": 101,
+        "production": "Breaking Bad"
+    },
+    {
+        "death_id": 0,
         "character": "Walter White",
         "image": "https://static.wikia.nocookie.net/breakingbad/images/9/9e/Walt%27s_Death.png/revision/latest?cb=20221121191611"
         "cause": "M60 Machine Gun & Cancer",
