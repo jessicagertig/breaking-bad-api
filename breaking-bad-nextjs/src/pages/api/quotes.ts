@@ -1,5 +1,5 @@
 import { NextApiRequest, NextApiResponse } from "next";
-const data = require("../../../../quotes.json");
+const data = require("../../../data/quotes.json");
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   try {
