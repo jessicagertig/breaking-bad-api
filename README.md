@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# The Unofficial Breaking Bad API
 
-## Getting Started
+An API providing data on characters, episode, deaths, and quotations from the Breaking Bad universe (including Better Call Saul & El Camino)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Working with Branches on this Repo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The permanant branches will be **production** and **staging**. The team will create feature, bug fix, or other branches from the **staging** branch.
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+### Pull Requests
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Pull Requests will be created to merge into the **staging** branch and as best practice, request a team member to review.
 
-## Learn More
+Since this is the free tier, you can only use Github to request one review, but for more, just message everyone on Slack.
 
-To learn more about Next.js, take a look at the following resources:
+Also, the free tier does not let you create Draft PRs, which are useful. There is **wip** tag you can add to your PR in additon to putting _WIP_ at the beginning of the name.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The purpose of such PRs is to allow the team to more easily review your code before you are _officially_ "done" with the PR.
