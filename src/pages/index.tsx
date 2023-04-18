@@ -5,6 +5,8 @@ import { Button, ButtonGroup } from "@/components/Buttons";
 import EndPointContainer, { Base, EndPoint } from "@/components/EndPoint";
 import FetchAPI from "@/components/FetchAPI";
 
+
+// This is the component for the "/" route
 export default function Home(): JSX.Element {
     return (
         <>

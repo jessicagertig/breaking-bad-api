@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import Link from 'next/link';
 
+// The nav bar
 const NavBar = styled.nav`
     height: 10vh;
     min-height: 10vh;
@@ -15,6 +16,7 @@ const NavBar = styled.nav`
     color: #CCC;
 `
 
+// The "Breaking Bad API" nav brand
 const NavBrand = styled.h2`
     letter-spacing: 0;
     font-size: 3.2rem;
@@ -24,6 +26,7 @@ const NavBrand = styled.h2`
     }
 `
 
+// The unordered list containing the nav menu
 const NavList = styled.ul`
     min-width: 50%;
     width: 60%;
@@ -45,7 +48,7 @@ const NavList = styled.ul`
     }
 `
 
-
+// The nav component
 export default function Nav(): JSX.Element {
 
     return (

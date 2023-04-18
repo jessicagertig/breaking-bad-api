@@ -3,6 +3,9 @@ import Nav from '@/components/Navigation';
 import { AppProps } from 'next/app';
 import '../styles/global.css';
 
+// The _app component file is rendered with every page. It serves as
+// kind of like a template for all the other pages. 
+
 function MyApp({ Component, pageProps }: AppProps) {
     return (
         <>

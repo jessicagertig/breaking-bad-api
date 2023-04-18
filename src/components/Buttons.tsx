@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
+// This is the div component the contains the characters,
+// episodes, quotes, and death buttons.
 const ButtonGroup = styled.div`
     display: grid;
     grid-template-columns: repeat(4, minmax(16rem, 1fr));
@@ -7,6 +9,8 @@ const ButtonGroup = styled.div`
     width: 50%;
 `
 
+// This are the buttons that are used for the characters,
+// episodes, quotes, and deaths endpoints in the home page.
 const Button = styled.a`
     &,
     &:link,

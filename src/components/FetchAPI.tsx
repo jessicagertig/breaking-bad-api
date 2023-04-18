@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
+// This is the "Fetch Random Character/Episode/Quote/Death"
+// link at the bottom of the landing page.
 const FetchAPI = styled.a`
     &,
     &:link,
