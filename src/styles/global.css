@@ -1,0 +1,47 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%
+}
+
+body {
+    font-size: 1.6rem;
+    letter-spacing: 2px;
+    text-indent: 2px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #CCC;
+    color: #333;
+    position: relative;
+    box-sizing: border-box;
+}
+
+h1, h2, h3 {
+    font-family: 'Anton', 'sans-serif';
+}
+
+h1 {
+    font-size: 5.6rem;
+}
+
+h2 {
+    font-size: 4rem;
+}
+
+p {
+    font-size: 1.8rem;
+}
+
+li, a {
+    font-size: inherit;
+}
+
+a, a:link, a:visited {
+    color: inherit;
+    text-decoration: none;
+}
