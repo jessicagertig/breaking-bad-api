@@ -5,8 +5,8 @@ import '../styles/global.css';
 import { useEffect } from "react";
 
 import { wrapper } from '@/lib/redux/store';
-import { useAppDispatch, useAppSelector } from '@/lib/redux/hooks';
-import {  updateScreenWidth } from '@/lib/redux/reducers/screenSize';
+import { useAppDispatch } from '@/lib/redux/hooks';
+import { updateScreenWidth } from '@/lib/redux/reducers/screenSize';
 // The _app component file is rendered with every page. It serves as
 // kind of like a template for all the other pages. 
 
