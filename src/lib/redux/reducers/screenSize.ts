@@ -1,14 +1,13 @@
 import { createSlice } from '@reduxjs/toolkit';
-import { HYDRATE } from 'next-redux-wrapper';
 import { RootState } from '../store';
 
 interface ScreenState {
-  screenWidth: number;
+  width: number;
   isSmallScreen: boolean;
 }
 
 const initialState: ScreenState = {
-  screenWidth: 0,
+  width: 0,
   isSmallScreen: false,
 };
 
@@ -17,18 +16,10 @@ export const screenSlice = createSlice({
   initialState,
   reducers: {
     updateScreenWidth: (state, action) => {
-      state.screenWidth = action.payload;
-      state.isSmallScreen = action.payload < 1200;
+      state.width = action.payload.width;
+      state.isSmallScreen = action.payload.width < 1200;
     }
   },
-  // extraReducers: (builder) => {
-  //   builder.addCase(HYDRATE, (state, action) => {
-  //     return {
-  //       ...state,
-  //       ...action.payload.screen,
-  //     };
-  //   });
-  // }
 });
 
 export const { updateScreenWidth } = screenSlice.actions;

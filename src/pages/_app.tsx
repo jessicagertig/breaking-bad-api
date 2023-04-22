@@ -6,11 +6,25 @@ import { useEffect } from "react";
 
 import { wrapper } from '@/lib/redux/store';
 import { useAppDispatch, useAppSelector } from '@/lib/redux/hooks';
-import selectScreen from '@/lib/redux/reducers/screenSize';
+import {  updateScreenWidth } from '@/lib/redux/reducers/screenSize';
 // The _app component file is rendered with every page. It serves as
 // kind of like a template for all the other pages. 
 
 function MyApp({ Component, pageProps }: AppProps) {
+  const dispatch = useAppDispatch();
+  //the first useEffect is necessary to get the initial screen width
+  useEffect(() => {
+    dispatch(updateScreenWidth({ width: window.innerWidth }));
+  }, []);
+
+  useEffect(() => {
+    function handleScreenResize() {
+      dispatch(updateScreenWidth({ width: window.innerWidth}));
+    }
+    window.addEventListener('resize', handleScreenResize);
+    return () => window.removeEventListener('resize', handleScreenResize);
+  }, [dispatch]);
+
   return (
     <>
       <Head>

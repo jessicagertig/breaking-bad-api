@@ -4,9 +4,14 @@ import MainHeader, { SecondaryHeader, HeaderContainer } from "@/components/Heade
 import { Button, ButtonGroup } from "@/components/Buttons";
 import EndPointContainer, { Base, EndPoint } from "@/components/EndPoint";
 import FetchAPI from "@/components/FetchAPI";
+import { useAppSelector } from '@/lib/redux/hooks';
+import { selectScreenWidth } from '@/lib/redux/reducers/screenSize';
 
 // This is the component for the "/" route
 export default function Home(): JSX.Element {
+    const { width, isSmallScreen } = useAppSelector(selectScreenWidth);
+    //Access the width and isSmallScreen properties of the screen size state
+    //the width is a number and isSmallScreen is a boolean
     return (
         <>
             <Head>
