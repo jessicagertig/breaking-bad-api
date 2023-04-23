@@ -4,6 +4,7 @@ import { selectScreenWidth } from "@/lib/redux/reducers/screenSize";
 import { useSelector } from "react-redux";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
+import { useState } from "react";
 
 // The nav bar
 const NavBar = styled.nav`
@@ -18,11 +19,30 @@ const NavBar = styled.nav`
     justify-content: space-between;
     align-items: center;
     color: #CCC;
+    box-sizing: border-box;
+
+    @media only screen and (max-width: 1200px) {
+        background-color: #101010;
+        flex-wrap: wrap;
+    }
+
+    @media only screen and (max-width: 600px) {
+        padding: 0 2rem;
+    }
 
     & svg {
         cursor: pointer;
         font-size: 3rem;
         transition: color 0.2s ease;
+
+        @media only screen and (max-width: 1200px) {
+            font-size: 4rem;
+        }
+
+        @media only screen and (max-width: 600px) {
+            font-size: 3.5rem;
+        }
+
         &:hover {
             color: #007A4D;
         }
@@ -64,6 +84,26 @@ const NavList = styled.ul`
     list-style: none;
     display: flex;
     justify-content: space-between;
+
+    @media only screen and (max-width: 1200px) {
+        flex-direction: column;
+        position: absolute;
+        top: 10vh;
+        left: 0;
+        background-color: #101010;
+        width: 100vw;
+        max-width: 100vw;
+        padding-left: 4rem;
+        padding-bottom: 1.6rem;
+
+        & li {
+            margin: 1.6rem 0;
+        }
+    }
+
+    @media only screen and (max-width: 600px) {
+        padding-left: 2rem;
+    }
 
     & li a {
         font-size: 1.8rem;
