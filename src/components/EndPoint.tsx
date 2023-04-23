@@ -6,6 +6,9 @@ const EndPointContainer = styled.div`
     & > div {
         display: inline-block;
         padding: 1.6rem 3.2rem;
+        @media only screen and (max-width: 600px) {
+            padding: 1.6rem 1rem;
+        }
     }
 `
 
