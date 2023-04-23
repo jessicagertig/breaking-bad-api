@@ -6,10 +6,16 @@ const FetchAPI = styled.a`
     &,
     &:link,
     &:visited {
+        margin-top: 10rem;
         font-size: 3.2rem;
         color: #00A86B;
         cursor: pointer;
         transition: all 0.2s ease;
+
+        @media only screen and (max-width: 600px) {
+            margin-top: 4rem;
+            font-size: 2.4rem;
+        }
     }
 
     &:hover {
