@@ -78,9 +78,47 @@ const NavList = styled.ul`
     }
 `
 
+function NavMenu(): JSX.Element {
+    
+    return (
+        <NavList>
+            <li>
+                <Link href="/categories">
+                    Categories
+                </Link>
+            </li>
+            <li>
+                <Link href="/episodes">
+                    Episodes
+                </Link>
+            </li>
+            <li>
+                <Link href="/quotes">
+                    Quotes
+                </Link>
+            </li>
+            <li>
+                <Link href="/deaths">
+                    Deaths
+                </Link>
+            </li>
+            <li>
+                <Link href="/docs">
+                    Docs
+                </Link>
+            </li>
+        </NavList>
+    )
+}
 // The nav component
 export default function Nav(): JSX.Element {
+    const [showNav, setShowNav] = useState(false);
     const { isSmallScreen } = useSelector(selectScreenWidth);
+
+    function toggleNav() {
+        setShowNav(!showNav);
+    }
+
     return (
         <>
             <NavBar>
@@ -92,35 +130,14 @@ export default function Nav(): JSX.Element {
                 {
                 isSmallScreen 
                 ?
-                <FontAwesomeIcon icon={faBars} />
+                <>
+                    <FontAwesomeIcon icon={faBars} onClick={toggleNav}/>
+                    {
+                        showNav && <NavMenu />
+                    }
+                </>
                 :
-                <NavList>
-                    <li>
-                        <Link href="/categories">
-                            Categories
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/episodes">
-                            Episodes
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/quotes">
-                            Quotes
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/deaths">
-                            Deaths
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/docs">
-                            Docs
-                        </Link>
-                    </li>
-                </NavList>
+                <NavMenu />
                 }
             </NavBar>
         </>
