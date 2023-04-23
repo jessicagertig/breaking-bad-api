@@ -1,5 +1,9 @@
 import styled from "styled-components";
 import Link from 'next/link';
+import { selectScreenWidth } from "@/lib/redux/reducers/screenSize";
+import { useSelector } from "react-redux";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faBars } from '@fortawesome/free-solid-svg-icons';
 
 // The nav bar
 const NavBar = styled.nav`
@@ -14,6 +18,19 @@ const NavBar = styled.nav`
     justify-content: space-between;
     align-items: center;
     color: #CCC;
+
+    & svg {
+        cursor: pointer;
+        font-size: 3rem;
+        transition: color 0.2s ease;
+        &:hover {
+            color: #007A4D;
+        }
+
+        &:active {
+            color: #005A36;
+        }
+    }
 `
 
 // The "Breaking Bad API" nav brand
@@ -21,8 +38,21 @@ const NavBrand = styled.h2`
     letter-spacing: 0;
     font-size: 3.2rem;
     font-family: 'Anton', 'sans-serif';
+    
     & a span {
         color: #00A86B;
+    }
+
+    & a {
+        transition: all 0.2s ease;
+    }
+
+    & a:hover, & a:hover span {
+        color: #007A4D;
+    }
+
+    & a:active, & a:active span {
+        color: #005A36;
     }
 `
 
@@ -50,7 +80,7 @@ const NavList = styled.ul`
 
 // The nav component
 export default function Nav(): JSX.Element {
-
+    const { isSmallScreen } = useSelector(selectScreenWidth);
     return (
         <>
             <NavBar>
@@ -59,6 +89,11 @@ export default function Nav(): JSX.Element {
                         <span>Br</span>eaking <span>Ba</span>d API
                     </Link>
                 </NavBrand>
+                {
+                isSmallScreen 
+                ?
+                <FontAwesomeIcon icon={faBars} />
+                :
                 <NavList>
                     <li>
                         <Link href="/categories">
@@ -86,6 +121,7 @@ export default function Nav(): JSX.Element {
                         </Link>
                     </li>
                 </NavList>
+                }
             </NavBar>
         </>
     )
