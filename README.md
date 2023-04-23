@@ -2,11 +2,7 @@
 
 An API providing data on characters, episode, deaths, and quotations from the Breaking Bad universe (including Better Call Saul & El Camino)
 
----
-
 ## Working with Branches on this Repo
-
----
 
 The permanant branches will be **production** and **staging**. The team will create feature, bug fix, or other branches from the **staging** branch.
 
