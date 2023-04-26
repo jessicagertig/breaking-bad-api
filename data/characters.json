@@ -18,7 +18,12 @@
       "https://static.wikia.nocookie.net/breakingbad/images/d/d1/Season_4_-_Walt.jpg/revision/latest?cb=20220805224819"
     ],
     "full_name": "Walter Hartwell White Sr.",
-    "aliases": ["Walt", "Heisenberg", "Mr. Mayhew", "Mr. Lambert"],
+    "aliases": [
+        "Walt",
+        "Heisenberg",
+        "Mr. Mayhew",
+        "Mr. Lambert"
+    ],
     "status": "Presumed dead",
     "appearance": {
       "breaking_bad": [1, 2, 3, 4, 5],
@@ -26,7 +31,11 @@
       "el_camino": [1]
     },
     "portrayed_by": "Bryan Cranston",
-    "production": "Breaking Bad"
+    "productions": [
+        "Breaking Bad",
+        "Better Call Saul",
+        "El Camino"
+    ]
   },
   {
     "character_id": 2,
