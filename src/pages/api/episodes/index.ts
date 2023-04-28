@@ -14,7 +14,13 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
       const filterEpisodeByProduction = episodeData.filter(
         (episode: any) => episode.production === production
       );
-      res.status(200).json(filterEpisodeByProduction);
+      if (filterEpisodeByProduction.length > 0) {
+        res.status(200).json(filterEpisodeByProduction);
+      } else {
+        res
+          .status(404)
+          .json({ message: "No episode found with given production name" });
+      }
     } else {
       res.status(200).json(episodeData);
     }
