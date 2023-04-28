@@ -36,5 +36,134 @@
             "Better Call Saul",
             "El Camino"
         ]
+    },
+    {
+      "character_id": 2,
+      "name": "Jesse Pinkman",
+      "birthday": "09-24-1984",
+      "occupations": [
+          "Meth Dealer"
+      ],
+      "images": [
+          "https://vignette.wikia.nocookie.net/breakingbad/images/9/95/JesseS5.jpg/revision/latest?cb=20120620012441",
+          "https://static.wikia.nocookie.net/breakingbad/images/0/05/Season_2_-_Jesse.jpg/revision/latest?cb=20090617154632",
+          "https://static.wikia.nocookie.net/breakingbad/images/9/98/Season_4_-_Jesse.jpg/revision/latest?cb=20110620212155",
+          "https://static.wikia.nocookie.net/breakingbad/images/c/ca/Jesse_Season_5B.jpg/revision/latest?cb=20220611094739",
+          "https://static.wikia.nocookie.net/breakingbad/images/1/1e/Jesse_El_Camino.jpg/revision/latest?cb=20220828233150"
+      ],
+      "full_name": "Jesse Bruce Pinkman",
+      "aliases": [
+          "Cap'n Cook",
+          "Diesel",
+          "Jesse Jackson",
+          "Mr. Driscoll"
+      ],
+      "status": "Alive",
+      "appearance": {
+          "breaking_bad": [1, 2, 3, 4, 5],
+          "better_call_saul": [6],
+          "el_camino": [1]
+      },
+      "portrayed_by": "Aaron Paul",
+      "productions": [
+          "Breaking Bad",
+          "Better Call Saul",
+          "El Camino"
+      ]
+    },
+    {
+      "character_id": 3,
+      "name": "Skyler White",
+      "birthday": "08-11-1970",
+      "occupations": [
+          "Writer",
+          "Housewife",
+          "Book Keeper at Beneke Fabricators",
+          "Car Wash Manager at A1A Car Wash",
+          "Taxi Dispatcher"
+      ],
+      "images": [
+          "https://s-i.huffpost.com/gen/1317262/images/o-ANNA-GUNN-facebook.jpg",
+          "https://static.wikia.nocookie.net/breakingbad/images/b/b7/Skyler_1993.png/revision/latest?cb=20180826093153",
+          "https://static.wikia.nocookie.net/breakingbad/images/4/40/Season_2_-_Skyler.jpg/revision/latest?cb=20090617160516",
+          "https://static.wikia.nocookie.net/breakingbad/images/1/10/Season_4_-_Skyler.jpg/revision/latest?cb=20110620221324",
+          "https://static.wikia.nocookie.net/breakingbad/images/d/df/Skyler_2010.png/revision/latest?cb=20220827145842"
+      ],
+      "full_name": "Skyler White",
+      "aliases": [
+          "Sky"
+      ],
+      "status": "Alive",
+      "appearance": {
+          "breaking_bad": [1, 2, 3, 4, 5],
+          "better_call_saul": [],
+          "el_camino": []
+      },
+      "portrayed_by": "Anna Gunn",
+      "productions": [
+          "Breaking Bad"
+      ]
+    },
+    {
+      "character_id": 4,
+      "name": "Walter Jr.",
+      "birthday": "07-08-1993",
+      "occupations": [
+          "Student at J. P. Wynne High School",
+          "Cashier at A1A Car Wash"
+      ],
+      "images": [
+          "https://static.wikia.nocookie.net/breakingbad/images/e/e7/WaltJrS5.jpg/revision/latest?cb=20221021194031",
+          "https://static.wikia.nocookie.net/breakingbad/images/7/75/Season_2_-_Walt_Jr.jpg/revision/latest?cb=20120621234444",
+          "https://static.wikia.nocookie.net/breakingbad/images/5/53/Season_4_-_Walt_Jr.jpg/revision/latest?cb=20220906211638",
+          "https://static.wikia.nocookie.net/breakingbad/images/4/41/WaltJr_S5b.jpg/revision/latest?cb=20130717044344"
+      ],
+      "full_name": "Walter Hartwell White Jr.",
+      "aliases": [
+          "Walt Jr.",
+          "Flynn",
+          "Junior"
+      ],
+      "status": "Alive",
+      "appearance": {
+          "breaking_bad": [1, 2, 3, 4, 5],
+          "better_call_saul": [],
+          "el_camino": []
+      },
+      "portrayed_by": "RJ Mitte",
+      "productions": [
+          "Breaking Bad"
+      ]
+    },
+    {
+      "character_id": 5,
+      "name": "Hank Schrader",
+      "birthday": "March 1966",
+      "occupations": [
+          "DEA Agent"
+      ],
+      "images": [
+          "https://vignette.wikia.nocookie.net/breakingbad/images/b/b7/HankS5.jpg/revision/latest/scale-to-width-down/700?cb=20120620014136",
+          "https://static.wikia.nocookie.net/breakingbad/images/5/57/Hank_2004.png/revision/latest?cb=20200307020658",
+          "https://static.wikia.nocookie.net/breakingbad/images/4/4f/Season_2_-_Hank.jpg/revision/latest?cb=20100330034255",
+          "https://static.wikia.nocookie.net/breakingbad/images/9/98/Season_4_-_Hank.jpg/revision/latest?cb=20110623000457",
+          "https://static.wikia.nocookie.net/breakingbad/images/7/7b/Hank_S5b.jpg/revision/latest?cb=20130717044210"
+      ],
+      "full_name": "Henry R. Schrader",
+      "aliases": [
+          "Uncle Hank",
+          "ASAC Schrader"
+      ],
+      "status": "Deceased",
+      "appearance": {
+          "breaking_bad": [1, 2, 3, 4, 5],
+          "better_call_saul": [5],
+          "el_camino": []
+      },
+      "portrayed_by": "Dean Norris",
+      "productions": [
+          "Breaking Bad",
+          "Better Call Saul"
+      ]
     }
 ]
