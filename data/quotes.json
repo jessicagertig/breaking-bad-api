@@ -806,8 +806,92 @@
   },
   {
     "quote_id": 116,
-    "quote": "",
-    "character": "",
+    "quote": "Let's break it down.",
+    "character": "Walter White",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 117,
+    "quote": "I hate these shoes. These shoes make me look like I should be changing bedpans, like I should be squeaking around bringing soup to some disgusting old person, then take the bus home to my sixteen cats.",
+    "character": "Marie Schrader",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 118,
+    "quote": "My arches happen to be extremely archy.",
+    "character": "Marie Schrader",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 119,
+    "quote": "Yo, what's up? Hey, can you call me, like, in two minutes? Thanks, bye.",
+    "character": "Walter Jr.",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 120,
+    "quote": "Gotta go take this.",
+    "character": "Walter Jr.",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 121,
+    "quote": "Not like it's any of your business, though.",
+    "character": "Walter Jr.",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 122,
+    "quote": "Please don't say \"Yo\". You can't know how much I hate that.",
+    "character": "Skyler White",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 123,
+    "quote": "You missed a spot, right, right there.",
+    "character": "Marie Schrader",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 124,
+    "quote": "You smoked your fair share of pot in college, didn't you?",
+    "character": "Skyler White",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 125,
+    "quote": "Walter Jr.'s on pot?",
+    "character": "Marie Schrader",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 126,
+    "quote": "This here. I wouldn't do this to my worst enemy.",
+    "character": "Krazy-8",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 127,
+    "quote": "You hope I'll make it easy on you and just drop dead, don't you? Well, I won't. So either kill me or let me go.",
+    "character": "Krazy-8",
+    "production": "Breaking Bad",
+    "episode": 103
+  },
+  {
+    "quote_id": 128,
+    "quote": "That partner of yours, he's got a big mouth.",
+    "character": "Krazy-8",
     "production": "Breaking Bad",
     "episode": 103
   }
