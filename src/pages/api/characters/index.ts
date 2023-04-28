@@ -11,11 +11,11 @@ const charactersData = require("../../../../data/characters.json");
  */
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
-  const { production } = req.query;
+  const { productions } = req.query;
   const { name } = req.query;
-  if (production) {
+  if (productions) {
     const filteredByProductionCharacters = charactersData.filter(
-      (character: any) => character.production === production
+      (character: any) => character.productions === productions
     );
     res.status(200).json(filteredByProductionCharacters);
   } else if (name) {
