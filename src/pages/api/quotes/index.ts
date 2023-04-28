@@ -3,9 +3,10 @@ const quoteData = require("../../../../data/quotes.json");
 
 /**
  *
- * @param req /api/quotes?character=Jesse+Pinkman ==> fetches all quotes by specific character
- * @param req /api/quotes ====> fetches all quotes
- * @param res
+ * @param req /api/quotes?character=Jesse+Pinkman
+ * @param res fetches all quotes by specific character
+ * @param req /api/quotes
+ * @param res fetches all quotes
  */
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
