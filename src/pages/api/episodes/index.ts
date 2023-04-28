@@ -1,6 +1,12 @@
 import { NextApiRequest, NextApiResponse } from "next";
 const episodeData = require("../../../../data/episodes.json");
 
+/**
+ *
+ * @param req /episodes?production=Breaking+Bad
+ * @param res returns episodes by query production
+ */
+
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   const { production } = req.query;
   try {
