@@ -2,8 +2,16 @@ import { NextApiRequest, NextApiResponse } from "next";
 const episodeData = require("../../../../data/episodes.json");
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
+  const { production } = req.query;
   try {
-    res.status(200).json(episodeData);
+    if (production) {
+      const filterEpisodeByProduction = episodeData.filter(
+        (episode: any) => episode.production === production
+      );
+      res.status(200).json(filterEpisodeByProduction);
+    } else {
+      res.status(200).json(episodeData);
+    }
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: "Internal Server Error" });
