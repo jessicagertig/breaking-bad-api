@@ -2,6 +2,8 @@ import { NextApiRequest, NextApiResponse } from "next";
 const charactersData = require("../../../../data/characters.json");
 
 /**
+ * @param req /characters
+ * @param res list of objects of all characters
  *
  * @param req /characters?productions=Breaking+Bad || /characters?productions=Better+Call+Saul
  * @param res characters by production
