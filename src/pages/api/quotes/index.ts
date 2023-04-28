@@ -11,7 +11,20 @@ const quoteData = require("../../../../data/quotes.json");
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   const { character } = req.query;
+  const { character } = req.query;
   try {
+    if (character) {
+      const filterQuoteByCharacter = quoteData.filter(
+        (quote: any) => quote.character === character
+      );
+      if (filterQuoteByCharacter) {
+        res.status(200).json(filterQuoteByCharacter);
+      } else {
+        res.status(400).json({ message: "Name of character not Found" });
+      }
+    } else {
+      res.status(200).json(quoteData);
+    }
     if (character) {
       const filterQuoteByCharacter = quoteData.filter(
         (quote: any) => quote.character === character
