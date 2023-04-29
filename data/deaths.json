@@ -1,26 +1,26 @@
 [
-  {
-    "death_id": 1,
-    "character": "Emilio",
-    "image": "https://static.wikia.nocookie.net/breakingbad/images/4/44/1x1_Walt_kills_Emilio_2.png/revision/latest?cb=20120702024608",
-    "cause": "Phosphine Gas",
-    "details": "Poisoned by phosphine gas created by mixing red phosphorus with hot water to save the lives of Walter White and Jesse Pinkman.",
-    "responsible": ["Walter White"],
-    "connected": [],
-    "last_words": "I say we cap 'em both.",
-    "episode": 101,
-    "production": "Breaking Bad"
-  },
-  {
-    "death_id": 0,
-    "character": "Walter White",
-    "image": "https://static.wikia.nocookie.net/breakingbad/images/9/9e/Walt%27s_Death.png/revision/latest?cb=20221121191611",
-    "cause": "M60 Machine Gun & Cancer",
-    "details": "Accidentally hit by a ricocheting bullet fired by his remote-activated M60 machine gun while trying to protect Jesse, and his body already being in a weakened state from his returned cancer, bled out and died in Jack's gang's meth lab as police arrived on the scene and surrounded him.",
-    "responsible": ["Walter White"],
-    "connected": ["Jesse Pinkman", "Jack Welker"],
-    "last_words": "Well, erm... goodbye, Lydia.",
-    "episode": 516,
-    "production": "Breaking Bad"
-  }
+    {
+        "death_id": 1,
+        "character": "Emilio",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/4/44/1x1_Walt_kills_Emilio_2.png/revision/latest?cb=20120702024608",
+        "cause": "Phosphine Gas",
+        "details": "Poisoned by phosphine gas created by mixing red phosphorus with hot water to save the lives of Walter White and Jesse Pinkman.",
+        "responsible": ["Walter White"],
+        "connected": [],
+        "last_words": "I say we cap 'em both.",
+        "episode": 101,
+        "production": "Breaking Bad"
+    },
+    {
+        "death_id": 0,
+        "character": "Walter White",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/9/9e/Walt%27s_Death.png/revision/latest?cb=20221121191611",
+        "cause": "M60 Machine Gun & Cancer",
+        "details": "Accidentally hit by a ricocheting bullet fired by his remote-activated M60 machine gun while trying to protect Jesse, and his body already being in a weakened state from his returned cancer, bled out and died in Jack's gang's meth lab as police arrived on the scene and surrounded him.",
+        "responsible": ["Walter White"],
+        "connected": ["Jesse Pinkman", "Jack Welker"],
+        "last_words": "Well, erm... goodbye, Lydia.",
+        "episode": 516,
+        "production": "Breaking Bad"
+    }
 ]
