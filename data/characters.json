@@ -21,7 +21,13 @@
         "aliases": [
             "Walt",
             "Heisenberg",
+            "Mr. White",
+            "Mr. W",
+            "Walt Jackson",
             "Mr. Mayhew",
+            "The Maestro",
+            "Grandpa Anus",
+            "Nick the Greek",
             "Mr. Lambert"
         ],
         "status": "Presumed dead",
@@ -38,132 +44,733 @@
         ]
     },
     {
-      "character_id": 2,
-      "name": "Jesse Pinkman",
-      "birthday": "09-24-1984",
-      "occupations": [
-          "Meth Dealer"
-      ],
-      "images": [
-          "https://vignette.wikia.nocookie.net/breakingbad/images/9/95/JesseS5.jpg/revision/latest?cb=20120620012441",
-          "https://static.wikia.nocookie.net/breakingbad/images/0/05/Season_2_-_Jesse.jpg/revision/latest?cb=20090617154632",
-          "https://static.wikia.nocookie.net/breakingbad/images/9/98/Season_4_-_Jesse.jpg/revision/latest?cb=20110620212155",
-          "https://static.wikia.nocookie.net/breakingbad/images/c/ca/Jesse_Season_5B.jpg/revision/latest?cb=20220611094739",
-          "https://static.wikia.nocookie.net/breakingbad/images/1/1e/Jesse_El_Camino.jpg/revision/latest?cb=20220828233150"
-      ],
-      "full_name": "Jesse Bruce Pinkman",
-      "aliases": [
-          "Cap'n Cook",
-          "Diesel",
-          "Jesse Jackson",
-          "Mr. Driscoll"
-      ],
-      "status": "Alive",
-      "appearance": {
-          "breaking_bad": [1, 2, 3, 4, 5],
-          "better_call_saul": [6],
-          "el_camino": [1]
-      },
-      "portrayed_by": "Aaron Paul",
-      "productions": [
-          "Breaking Bad",
-          "Better Call Saul",
-          "El Camino"
-      ]
+        "character_id": 2,
+        "name": "Jesse Pinkman",
+        "birthday": "09-24-1984",
+        "occupations": [
+            "Meth Dealer"
+        ],
+        "images": [
+            "https://vignette.wikia.nocookie.net/breakingbad/images/9/95/JesseS5.jpg/revision/latest?cb=20120620012441",
+            "https://static.wikia.nocookie.net/breakingbad/images/0/05/Season_2_-_Jesse.jpg/revision/latest?cb=20090617154632",
+            "https://static.wikia.nocookie.net/breakingbad/images/9/98/Season_4_-_Jesse.jpg/revision/latest?cb=20110620212155",
+            "https://static.wikia.nocookie.net/breakingbad/images/c/ca/Jesse_Season_5B.jpg/revision/latest?cb=20220611094739",
+            "https://static.wikia.nocookie.net/breakingbad/images/1/1e/Jesse_El_Camino.jpg/revision/latest?cb=20220828233150"
+        ],
+        "full_name": "Jesse Bruce Pinkman",
+        "aliases": [
+            "Cap'n Cook",
+            "Diesel",
+            "Captain America",
+            "Jesse Jackson",
+            "Mr. Driscoll",
+            "Igor"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 2, 3, 4, 5],
+            "better_call_saul": [6],
+            "el_camino": [1]
+        },
+        "portrayed_by": "Aaron Paul",
+        "productions": [
+            "Breaking Bad",
+            "Better Call Saul",
+            "El Camino"
+        ]
     },
     {
-      "character_id": 3,
-      "name": "Skyler White",
-      "birthday": "08-11-1970",
-      "occupations": [
-          "Writer",
-          "Housewife",
-          "Book Keeper at Beneke Fabricators",
-          "Car Wash Manager at A1A Car Wash",
-          "Taxi Dispatcher"
-      ],
-      "images": [
-          "https://s-i.huffpost.com/gen/1317262/images/o-ANNA-GUNN-facebook.jpg",
-          "https://static.wikia.nocookie.net/breakingbad/images/b/b7/Skyler_1993.png/revision/latest?cb=20180826093153",
-          "https://static.wikia.nocookie.net/breakingbad/images/4/40/Season_2_-_Skyler.jpg/revision/latest?cb=20090617160516",
-          "https://static.wikia.nocookie.net/breakingbad/images/1/10/Season_4_-_Skyler.jpg/revision/latest?cb=20110620221324",
-          "https://static.wikia.nocookie.net/breakingbad/images/d/df/Skyler_2010.png/revision/latest?cb=20220827145842"
-      ],
-      "full_name": "Skyler White",
-      "aliases": [
-          "Sky"
-      ],
-      "status": "Alive",
-      "appearance": {
-          "breaking_bad": [1, 2, 3, 4, 5],
-          "better_call_saul": [],
-          "el_camino": []
-      },
-      "portrayed_by": "Anna Gunn",
-      "productions": [
-          "Breaking Bad"
-      ]
+        "character_id": 3,
+        "name": "Skyler White",
+        "birthday": "08-11-1970",
+        "occupations": [
+            "Writer",
+            "Housewife",
+            "Book Keeper at Beneke Fabricators",
+            "Car Wash Manager at A1A Car Wash",
+            "Taxi Dispatcher"
+        ],
+        "images": [
+            "https://s-i.huffpost.com/gen/1317262/images/o-ANNA-GUNN-facebook.jpg",
+            "https://static.wikia.nocookie.net/breakingbad/images/b/b7/Skyler_1993.png/revision/latest?cb=20180826093153",
+            "https://static.wikia.nocookie.net/breakingbad/images/4/40/Season_2_-_Skyler.jpg/revision/latest?cb=20090617160516",
+            "https://static.wikia.nocookie.net/breakingbad/images/1/10/Season_4_-_Skyler.jpg/revision/latest?cb=20110620221324",
+            "https://static.wikia.nocookie.net/breakingbad/images/d/df/Skyler_2010.png/revision/latest?cb=20220827145842"
+        ],
+        "full_name": "Skyler White",
+        "aliases": [
+            "Sky",
+            "Yoko Ono"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 2, 3, 4, 5],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "Anna Gunn",
+        "productions": [
+            "Breaking Bad"
+        ]
     },
     {
-      "character_id": 4,
-      "name": "Walter Jr.",
-      "birthday": "07-08-1993",
-      "occupations": [
-          "Student at J. P. Wynne High School",
-          "Cashier at A1A Car Wash"
-      ],
-      "images": [
-          "https://static.wikia.nocookie.net/breakingbad/images/e/e7/WaltJrS5.jpg/revision/latest?cb=20221021194031",
-          "https://static.wikia.nocookie.net/breakingbad/images/7/75/Season_2_-_Walt_Jr.jpg/revision/latest?cb=20120621234444",
-          "https://static.wikia.nocookie.net/breakingbad/images/5/53/Season_4_-_Walt_Jr.jpg/revision/latest?cb=20220906211638",
-          "https://static.wikia.nocookie.net/breakingbad/images/4/41/WaltJr_S5b.jpg/revision/latest?cb=20130717044344"
-      ],
-      "full_name": "Walter Hartwell White Jr.",
-      "aliases": [
-          "Walt Jr.",
-          "Flynn",
-          "Junior"
-      ],
-      "status": "Alive",
-      "appearance": {
-          "breaking_bad": [1, 2, 3, 4, 5],
-          "better_call_saul": [],
-          "el_camino": []
-      },
-      "portrayed_by": "RJ Mitte",
-      "productions": [
-          "Breaking Bad"
-      ]
+        "character_id": 4,
+        "name": "Walter Jr.",
+        "birthday": "07-08-1993",
+        "occupations": [
+            "Student at J. P. Wynne High School",
+            "Cashier at A1A Car Wash"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/e/e7/WaltJrS5.jpg/revision/latest?cb=20221021194031",
+            "https://static.wikia.nocookie.net/breakingbad/images/7/75/Season_2_-_Walt_Jr.jpg/revision/latest?cb=20120621234444",
+            "https://static.wikia.nocookie.net/breakingbad/images/5/53/Season_4_-_Walt_Jr.jpg/revision/latest?cb=20220906211638",
+            "https://static.wikia.nocookie.net/breakingbad/images/4/41/WaltJr_S5b.jpg/revision/latest?cb=20130717044344"
+        ],
+        "full_name": "Walter Hartwell White Jr.",
+        "aliases": [
+            "Walt Jr.",
+            "Flynn",
+            "Junior",
+            "Emo McGee"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 2, 3, 4, 5],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "RJ Mitte",
+        "productions": [
+            "Breaking Bad"
+        ]
     },
     {
-      "character_id": 5,
-      "name": "Hank Schrader",
-      "birthday": "March 1966",
-      "occupations": [
-          "DEA Agent"
-      ],
-      "images": [
-          "https://vignette.wikia.nocookie.net/breakingbad/images/b/b7/HankS5.jpg/revision/latest/scale-to-width-down/700?cb=20120620014136",
-          "https://static.wikia.nocookie.net/breakingbad/images/5/57/Hank_2004.png/revision/latest?cb=20200307020658",
-          "https://static.wikia.nocookie.net/breakingbad/images/4/4f/Season_2_-_Hank.jpg/revision/latest?cb=20100330034255",
-          "https://static.wikia.nocookie.net/breakingbad/images/9/98/Season_4_-_Hank.jpg/revision/latest?cb=20110623000457",
-          "https://static.wikia.nocookie.net/breakingbad/images/7/7b/Hank_S5b.jpg/revision/latest?cb=20130717044210"
-      ],
-      "full_name": "Henry R. Schrader",
-      "aliases": [
-          "Uncle Hank",
-          "ASAC Schrader"
-      ],
-      "status": "Deceased",
-      "appearance": {
-          "breaking_bad": [1, 2, 3, 4, 5],
-          "better_call_saul": [5],
-          "el_camino": []
-      },
-      "portrayed_by": "Dean Norris",
-      "productions": [
-          "Breaking Bad",
-          "Better Call Saul"
-      ]
+        "character_id": 5,
+        "name": "Hank Schrader",
+        "birthday": "March 1966",
+        "occupations": [
+            "DEA Agent"
+        ],
+        "images": [
+            "https://vignette.wikia.nocookie.net/breakingbad/images/b/b7/HankS5.jpg/revision/latest/scale-to-width-down/700?cb=20120620014136",
+            "https://static.wikia.nocookie.net/breakingbad/images/5/57/Hank_2004.png/revision/latest?cb=20200307020658",
+            "https://static.wikia.nocookie.net/breakingbad/images/4/4f/Season_2_-_Hank.jpg/revision/latest?cb=20100330034255",
+            "https://static.wikia.nocookie.net/breakingbad/images/9/98/Season_4_-_Hank.jpg/revision/latest?cb=20110623000457",
+            "https://static.wikia.nocookie.net/breakingbad/images/7/7b/Hank_S5b.jpg/revision/latest?cb=20130717044210"
+        ],
+        "full_name": "Henry R. Schrader",
+        "aliases": [
+            "Uncle Hank",
+            "ASAC Schrader"
+        ],
+        "status": "Deceased",
+        "appearance": {
+            "breaking_bad": [1, 2, 3, 4, 5],
+            "better_call_saul": [5],
+            "el_camino": []
+        },
+        "portrayed_by": "Dean Norris",
+        "productions": [
+            "Breaking Bad",
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 6,
+        "name": "Marie Schrader",
+        "birthday": "1973",
+        "occupations": [
+            "Radiologic Technician at Kleinman Radiology Center"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/4/4b/MarieS5.jpg/revision/latest?cb=20120620014705",
+            "https://vignette.wikia.nocookie.net/breakingbad/images/1/10/Season_2_-_Marie.jpg/revision/latest?cb=20120617211645",
+            "https://static.wikia.nocookie.net/breakingbad/images/4/4f/Season_4_-_Marie.jpg/revision/latest?cb=20110623001047",
+            "https://static.wikia.nocookie.net/breakingbad/images/b/b7/Marie_S5b.jpg/revision/latest?cb=20130717044235"
+        ],
+        "full_name": "Marie Schrader",
+        "aliases": [
+            "Tori Costner",
+            "Charlotte Blattner",
+            "Mimi"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 2, 3, 4, 5],
+            "better_call_saul": [6],
+            "el_camino": []
+        },
+        "portrayed_by": "Betsy Brandt",
+        "productions": [
+            "Breaking Bad",
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 7,
+        "name": "Mike Ehrmantraut",
+        "birthday": "Unknown",
+        "occupations": [
+            "Police Officer",
+            "Ticket Booth Guard",
+            "Private Investigator",
+            "Head of Corporate Security at Los Pollos Hermanos",
+            "Hitman/Assassin",
+        ],
+        "images": [
+            "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_mike-ehrmantraut-lg.jpg",
+            "https://static.wikia.nocookie.net/breakingbad/images/1/14/BCS_S4_Mike_Ehrmantraut.jpg/revision/latest?cb=20180824195828",
+            "https://static.wikia.nocookie.net/breakingbad/images/8/8d/BCS_S3_MikeEhrmantraut.jpg/revision/latest?cb=20170327185046",
+            "https://static.wikia.nocookie.net/breakingbad/images/4/46/BCS_S6_Portrait_Mike.jpg/revision/latest?cb=20220522174959"
+        ],
+        "full_name": "Michael Ehrmantraut",
+        "aliases": [
+            "Uncle Fester",
+            "Billy Jackoff",
+            "Pop Pop",
+            "Dave Clarke",
+            "Barry Hedberg",
+            "Duane"
+        ],
+        "status": "Deceased",
+        "appearance": {
+            "breaking_bad": [2, 3, 4, 5],
+            "better_call_saul": [1, 2, 3, 4, 5, 6],
+            "el_camino": [1]
+        },
+        "portrayed": "Jonathan Banks",
+        "productions": [
+            "Breaking Bad",
+            "Better Call Saul",
+            "El Camino"
+        ]
+    },
+    {
+        "character_id": 20,
+        "name": "Steve Gomez",
+        "birthday": "1971",
+        "occupations": [
+            "DEA Agent"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/2/27/Gomez_2004.png/revision/latest?cb=20200307015558",
+            "https://static.wikia.nocookie.net/breakingbad/images/6/65/Gomie_2009.png/revision/latest?cb=20220822191637",
+            "https://static.wikia.nocookie.net/breakingbad/images/9/91/Cast_bb_700x1000_steven-gomez-lg.jpg/revision/latest?cb=20220521123001"
+        ],
+        "full_name": "Steven Gomez",
+        "aliases": [
+            "Gomie",
+            "Gom"
+        ],
+        "status": "Deceased",
+        "appearance": {
+            "breaking_bad": [1, 2, 3, 4, 5],
+            "better_call_saul": [5],
+            "el_camino": []
+        },
+        "portrayed_by": "Steven Michael Quezada",
+        "productions": [
+            "Breaking Bad",
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 25,
+        "name": "Carmen",
+        "birthday": "Unknown",
+        "occupations": [
+            "Principal at J. P. Wynne High School"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/1/1c/Cast_bb_700x1000_carmen-molina-lg.jpg/revision/latest?cb=20191118191845"
+        ],
+        "full_name": "Carmen Molina",
+        "aliases": [],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 2, 3, 5],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "Carmen Serano",
+        "productions": [
+            "Breaking Bad"
+        ]
+    },
+    {
+        "character_id": 26,
+        "name": "Gretchen Schwartz",
+        "birthday": "1958",
+        "occupations": [
+            "Co-owner of Gray Matter"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/3/30/Gretchen-gray-2010.png/revision/latest?cb=20220807150708",
+            "https://static.wikia.nocookie.net/breakingbad/images/5/59/Cast_bb_700x1000_gretchen-schwartz-lg.jpg/revision/latest?cb=20220807145851",
+            "https://static.wikia.nocookie.net/breakingbad/images/0/02/Gretchen-gray-1985.png/revision/latest?cb=20220521211208",
+            "https://static.wikia.nocookie.net/breakingbad/images/1/18/Gretchen-gray-2008.png/revision/latest?cb=20200617040254"
+        ],
+        "full_name": "Gretchen Schwartz",
+        "aliases": [],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 2, 5],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "Jessica Hecht",
+        "productions": [
+            "Breaking Bad"
+        ]
+    },
+    {
+        "character_id": 33,
+        "name": "Krazy-8",
+        "birthday": "1971",
+        "occupations": [
+            "Employee at Tampico Furniture",
+            "Crystal Meth Distributor",
+            "DEA Informant"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/3/39/Domingo_2003.png/revision/latest?cb=20200307043312",
+            "https://static.wikia.nocookie.net/breakingbad/images/e/eb/Domingo-2008-bb.jpg/revision/latest?cb=20200609185248",
+            "https://static.wikia.nocookie.net/breakingbad/images/a/a2/Domingo2004.jpeg/revision/latest?cb=20200225050606",
+            "https://static.wikia.nocookie.net/breakingbad/images/e/e7/Krazy8.png/revision/latest?cb=20200608160746",
+            "https://static.wikia.nocookie.net/breakingbad/images/e/ea/Krazy-8.jpg/revision/latest?cb=20170810084457"
+        ],
+        "full_name": "Domingo Gallardo Molina",
+        "aliases": [
+            "Ocho Loco",
+            "Kraze",
+            "Sunday"
+        ],
+        "status": "Deceased",
+        "appearance": {
+            "breaking_bad": [1],
+            "better_call_saul": [2, 3, 4, 5],
+            "el_camino": []
+        },
+        "portrayed_by": "Maximino Arciniega",
+        "productions": [
+            "Breaking Bad",
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 34,
+        "name": "Emilio",
+        "birthday": "Unknown",
+        "occupations": [
+            "Crystal Meth Manufacturer",
+            "Low-Level Meth Distributor"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/b/be/Emilio_Koyama_2004.png/revision/latest?cb=20220809095927",
+            "https://static.wikia.nocookie.net/breakingbad/images/5/5b/Emilio_Koyama_3.jpg/revision/latest?cb=20200529164900"
+        ],
+        "full_name": "Emilio Koyama",
+        "aliases": [],
+        "status": "Deceased",
+        "appearance": {
+            "breaking_bad": [1],
+            "better_call_saul": [6],
+            "el_camino": []
+        },
+        "portrayed_by": "John Koyama",
+        "productions": [
+            "Breaking Bad",
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 36,
+        "name": "Wendy",
+        "birthday": "Unknown",
+        "occupations": [
+            "Prostitute"
+        ],
+        "images": [
+            "https://vignette.wikia.nocookie.net/breakingbad/images/c/cc/Wendy.jpg/revision/latest?cb=20170721162715",
+            "https://static.wikia.nocookie.net/breakingbad/images/b/b6/Wendy_2004.png/revision/latest?cb=20221112142105",
+            "https://static.wikia.nocookie.net/breakingbad/images/f/fd/Wendy_2008.png/revision/latest?cb=20221112130731"
+        ],
+        "full_name": "Wendy S.",
+        "aliases": [
+            "Meth Whore",
+            "Princess"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 2, 3],
+            "better_call_saul": [6],
+            "el_camino": []
+        },
+        "portrayed_by": "Julia Minesci",
+        "productions": [
+            "Breaking Bad",
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 37,
+        "name": "Bogdan",
+        "birthday": "Unknown",
+        "occupations": [
+            "Owner of A1A Car Wash"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/0/05/Bogdan_2008.png/revision/latest?cb=20221128234140",
+            "https://static.wikia.nocookie.net/breakingbad/images/9/9b/Bogdan_Wolynetz2.jpg/revision/latest?cb=20210916181818"
+        ],
+        "full_name": "Bogdan Wolynetz",
+        "aliases": [
+            "Eyebrows"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 3, 4],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "Marius Stan",
+        "productions": [
+            "Breaking Bad"
+        ]
+    },
+    {
+        "character_id": 38,
+        "name": "Chad",
+        "birthday": "Unknown",
+        "occupations": [
+            "Student at J. P. Wynne High School"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/7/79/Chad.png/revision/latest?cb=20130929165850"
+        ],
+        "full_name": "Chad",
+        "aliases": [],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "Evan Bobrick",
+        "productions": [
+            "Breaking Bad"
+        ]
+    },
+    {
+        "character_id": 39,
+        "name": "Chad's Girlfriend",
+        "birthday": "Unknown",
+        "occupations": [
+            "Student at J. P. Wynne High School"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/d/d2/Chad%27s_Girlfriend.png/revision/latest?cb=20130929170039"
+        ],
+        "full_name": "Chad's Girlfriend",
+        "aliases": [],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "Roberta Marquez",
+        "productions": [
+            "Breaking Bad"
+        ]
+    },
+    {
+        "character_id": 40,
+        "name": "Ben",
+        "birthday": "Unknown",
+        "occupations": [
+            "Student at J. P. Wynne High School"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/0/0a/Ben.jpg/revision/latest?cb=20120131201433"
+        ],
+        "full_name": "Ben",
+        "aliases": [],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 4],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "Jason Byrd",
+        "productions": [
+            "Breaking Bad"
+        ]
+    },
+    {
+        "character_id": 41,
+        "name": "E.M.T.",
+        "birthday": "Unknown",
+        "occupations": [
+            "E.M.T.",
+            "Hospital Technician",
+            "E.R. Doctor #1"
+        ],
+        "images": [
+            "https://i.imgur.com/xbi1gZM.png"
+        ],
+        "full_name": "E.M.T.",
+        "aliases": [],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 2, 3],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "Christopher Dempsey",
+        "productions": [
+            "Breaking Bad"
+        ]
+    },
+    {
+        "character_id": 42,
+        "name": "Dr. Belknap",
+        "birthday": "Unknown",
+        "occupations": [
+            "Doctor"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/4/49/1x01_-_Pilot_90.png/revision/latest?cb=20130730024652"
+        ],
+        "full_name": "Dr. Belknap",
+        "aliases": [],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "Gregory Chase",
+        "productions": [
+            "Breaking Bad"
+        ]
+    },
+    {
+        "character_id": 43,
+        "name": "Jock",
+        "birthday": "Unknown",
+        "occupations": [
+            "Student"
+        ],
+        "images": [
+            "https://i.imgur.com/HomQ3Cy.png"
+        ],
+        "full_name": "Jock",
+        "aliases": [],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1],
+            "better_call_saul": [],
+            "el_camino": []
+        },
+        "portrayed_by": "Aaron Hill",
+        "productions": [
+            "Breaking Bad"
+        ]
+    },
+    {
+        "character_id": 110,
+        "name": "Saul Goodman",
+        "birthday": "11-12-1960",
+        "occupations": [
+            "Criminal Lawyer",
+            "Money Launderer"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/3/32/Saul2007.png/revision/latest?cb=20221207181238",
+            "https://static.wikia.nocookie.net/breakingbad/images/5/57/Saul_S4.jpg/revision/latest?cb=20220424103535"
+        ],
+        "full_name": "Saul Goodman",
+        "aliases": [
+            "McGill",
+            "The Lawyer",
+            "The Guy"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [2, 3, 4, 5],
+            "better_call_saul": [1, 2, 3, 4, 5, 6],
+            "el_camino": []
+        },
+        "portrayed_by": "Bob Odenkirk",
+        "productions": [
+            "Breaking Bad",
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 111,
+        "name": "Jimmy McGill",
+        "birthday": "11-12-1960",
+        "occupations": [
+            "Con Artist",
+            "Mailroom Clerk at Hamlin, Hamlin, & McGill",
+            "Public Defense Attorney",
+            "Independent Elder Law Attorney"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/5/56/BCS_S3_JimmyMcGill.jpg/revision/latest?cb=20170327184952",
+            "https://static.wikia.nocookie.net/breakingbad/images/8/8e/BCS_S6_Portrait_Jimmy.jpg/revision/latest?cb=20220802210840",
+            "https://static.wikia.nocookie.net/breakingbad/images/3/3d/BCS_S4_Jimmy_McGill.jpg/revision/latest?cb=20180824195816",
+            "https://static.wikia.nocookie.net/breakingbad/images/2/24/S5_Jimmy.png/revision/latest?cb=20200302223630"
+        ],
+        "full_name": "James Morgan McGill",
+        "aliases": [
+            "Slippin' Jimmy",
+            "Saul Goodman",
+            "Gene Takavic",
+            "The Lawyer",
+            "The Guy",
+            "The Magic Man"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [2, 3, 4, 5],
+            "better_call_saul": [1, 2, 3, 4, 5, 6],
+            "el_camino": []
+        },
+        "portrayed_by": "Bob Odenkirk",
+        "productions": [
+            "Breaking Bad",
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 112,
+        "name": "Kim Wexler",
+        "birthday": "02-13-1968",
+        "occupations": [
+            "Mailroom Clerk at Hamlin, Hamlin, & McGill",
+            "Lawyer at Hamlin, Hamlin, & McGill",
+            "Lawyer at Wexler & McGill",
+            "Designer at Palm Coast Sprinkler"
+        ],
+        "images": [
+            "https://vignette.wikia.nocookie.net/breakingbad/images/f/f7/BCS_S4_Kim_Wexler.jpg/revision/latest?cb=20180824195845",
+            "https://static.wikia.nocookie.net/breakingbad/images/1/16/BCS_S3_KimWexler.jpg/revision/latest?cb=20170327185119",
+            "https://static.wikia.nocookie.net/breakingbad/images/c/c6/BCS_S6_Portrait_Kim.jpg/revision/latest?cb=20220522174923",
+            "https://static.wikia.nocookie.net/breakingbad/images/6/64/Kim_Wexler_Post_BB.png/revision/latest?cb=20220809045522"
+        ],
+        "full_name": "Kimberly Wexler",
+        "aliases": [
+            "Kimmy",
+            "Mrs. Wexler",
+            "Giselle St. Clair",
+            "Mrs. Goodman",
+            "Lizy",
+            "Güera",
+            "Slippin' Kimmy"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [],
+            "better_call_saul": [1, 2, 3, 4, 5, 6],
+            "el_camino": []
+        },
+        "portrayed_by": "Rhea Seehorn",
+        "productions": [
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 113,
+        "name": "Howard Hamlin",
+        "birthday": "1960",
+        "occupations": [
+            "Corporate Lawyer",
+            "Partner at Hamlin, Hamlin, & McGill",
+            "Owner and CEO of Hamlin, Hamlin, & McGill"
+        ],
+        "images": [
+            "https://vignette.wikia.nocookie.net/breakingbad/images/5/57/BCS_S4_Howard_Hamlin.jpg/revision/latest?cb=20180824195855",
+            "https://static.wikia.nocookie.net/breakingbad/images/9/92/BCS_S3_HowardHamlin.jpg/revision/latest?cb=20170327185156",
+            "https://static.wikia.nocookie.net/breakingbad/images/5/53/BCS_S6_Portrait_Howard.jpg/revision/latest?cb=20220522175047"
+        ],
+        "full_name": "Howard G. Hamlin",
+        "aliases": [
+            "Howie",
+            "Darth Vader",
+            "Lord Vader",
+            "Mr. Ward",
+            "H.O. Ward",
+            "Max Schmeling"
+        ],
+        "status": "Deceased",
+        "appearance": {
+            "breaking_bad": [],
+            "better_call_saul": [1, 2, 3, 4, 5, 6],
+            "el_camino": []
+        },
+        "portrayed_by": "Patrick Fabian",
+        "productions": [
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 114,
+        "name": "Chuck McGill",
+        "birthday": "Unknown",
+        "occupations": [
+            "Lawyer",
+            "Partner at Hamlin, Hamlin, & McGill"
+        ],
+        "images": [
+            "https://vignette.wikia.nocookie.net/breakingbad/images/3/3e/BCS_S3_ChuckMcGill.jpg/revision/latest?cb=20170327185308"
+        ],
+        "full_name": "Charles Lindbergh McGill Jr.",
+        "aliases": [],
+        "status": "Deceased",
+        "appearance": {
+            "breaking_bad": [],
+            "better_call_saul": [1, 2, 3, 4, 6],
+            "el_camino": []
+        },
+        "portrayed_by": "Michael McKean",
+        "productions": [
+            "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 115,
+        "name": "Nacho Varga",
+        "birthday": "12-09-1971",
+        "occupations": [
+            "Employee at A-Z Fine Upholstery",
+            "Tuco's Lieutenant",
+            "Hector's Lieutenant",
+            "Lalo's Lieutenant",
+            "Gus's Informant"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/c/ce/BCS_S3_Nacho.jpg/revision/latest?cb=20170327185236",
+            "https://vignette.wikia.nocookie.net/breakingbad/images/b/b1/BCS_S4_Nacho_Varga.jpg/revision/latest?cb=20180824195910",
+            "https://static.wikia.nocookie.net/breakingbad/images/8/8a/S5_Nacho.png/revision/latest?cb=20220506083640"
+        ],
+        "full_name": "Ignacio Varga",
+        "aliases": [
+            "Nachito",
+            "Martin Cavallo"
+        ],
+        "status": "Deceased",
+        "appearance": {
+            "breaking_bad": [],
+            "better_call_saul": [1, 2, 3, 4, 5, 6],
+            "el_camino": []
+        },
+        "portrayed_by": "Michael Mano",
+        "productions": [
+            "Better Call Saul"
+        ]
     }
 ]
