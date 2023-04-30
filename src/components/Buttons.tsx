@@ -4,9 +4,24 @@ import styled from "styled-components";
 // episodes, quotes, and death buttons.
 const ButtonGroup = styled.div`
     display: grid;
-    grid-template-columns: repeat(4, minmax(16rem, 1fr));
+    grid-template-columns: repeat(4, minmax(10rem, 1fr));
     column-gap: 3.2rem;
     width: 50%;
+    margin: 4.8rem auto; 
+    fontSize: 1.4rem;
+
+    @media only screen and (max-width: 1200px) {
+        width: 60%;
+        grid-template-columns: repeat(2, minmax(min-content, 1fr));
+        row-gap: 2rem;
+    }
+
+    @media only screen and (max-width: 600px) {
+        width: 90%;
+        grid-template-columns: repeat(2, minmax(min-content, 1fr));
+        row-gap: 2rem;
+        margin: 2.4rem auto;
+    }
 `
 
 // This are the buttons that are used for the characters,
@@ -19,9 +34,13 @@ const Button = styled.a`
         background-color: #00A86B;
         text-align: center;
         padding: 1.6rem 0; 
-        border-radius: 30px;
+        border-radius: 15px;
         cursor: pointer;
         transition: all 0.2s ease;
+
+        @media only screen and (max-width: 600px) {
+            padding: 1.2rem 0;
+        }
     }
 
     &:hover {

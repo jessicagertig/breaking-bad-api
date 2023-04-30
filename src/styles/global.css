@@ -7,7 +7,19 @@
 }
 
 html {
-    font-size: 62.5%
+    font-size: 62.5%;
+}
+
+@media only screen and (max-width: 1200px) {
+    html {
+        font-size: 56.25%;
+    } 
+}
+
+@media only screen and (max-width: 900px) {
+    html {
+        font-size: 50%;
+    } 
 }
 
 body {
@@ -33,6 +45,16 @@ h2 {
     font-size: 4rem;
 }
 
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 4.8rem;
+    }
+
+    h2 {
+        font-size: 3.2rem;
+    }
+}
+
 p {
     font-size: 1.8rem;
 }
@@ -44,4 +66,23 @@ li, a {
 a, a:link, a:visited {
     color: inherit;
     text-decoration: none;
+}
+
+.gilliverse {
+    margin-top: 4.8rem;
+    font-size: 1.4rem;
+}
+
+@media only screen and (max-width: 1200px) {
+    .gilliverse {
+        font-size: 1.2rem;
+        margin-top: 3.6rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .gilliverse {
+        font-size: 1.2rem;
+        margin-top: 2.4rem;
+    }
 }

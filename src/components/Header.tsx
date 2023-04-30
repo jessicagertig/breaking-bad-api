@@ -22,6 +22,11 @@ const HeaderContainer = styled.div`
     &:not(:last-child) {
         margin-bottom: 0.4rem;
     }
+
+    @media only screen and (max-width: 600px) {
+        letter-spacing: 2px;
+        text-indent: 2px
+    }
 `
 
 export default MainHeader;

@@ -29,8 +29,8 @@ export default function Home(): JSX.Element {
                         API 
                     </SecondaryHeader>
                 </HeaderContainer>
-                <p style={{marginTop: "4.8rem", fontSize: "1.6rem"}}>Including <em>Better Call Saul</em> and <em>El Camino</em>!</p>
-                <ButtonGroup style={{margin: "5.6rem auto"}}>
+                <p className="gilliverse">Including <em>Better Call Saul</em> and <em>El Camino</em>!</p>
+                <ButtonGroup>
                     <Button>Characters</Button>
                     <Button>Episodes</Button>
                     <Button>Quotes</Button>
@@ -41,7 +41,7 @@ export default function Home(): JSX.Element {
                     <EndPoint>characters/random</EndPoint>
                 </EndPointContainer>
 
-                <FetchAPI style={{marginTop: "7.2rem"}}>
+                <FetchAPI>
                     Fetch Random Character
                 </FetchAPI>
             </MainBG>
