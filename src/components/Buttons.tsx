@@ -42,7 +42,7 @@ const Button = styled.a<ButtonProps>`
         text-align: center;
         padding: 1.6rem 0; 
         border-radius: 15px;
-        cursor: pointer;
+        cursor: ${props => props.isActive ? 'default': 'pointer'};
         transition: all 0.2s ease;
 
         @media only screen and (max-width: 600px) {
