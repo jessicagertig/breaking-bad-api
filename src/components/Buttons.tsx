@@ -1,3 +1,4 @@
+import { HTMLAttributes } from "react";
 import styled from "styled-components";
 
 // This is the div component the contains the characters,
@@ -24,14 +25,20 @@ const ButtonGroup = styled.div`
     }
 `
 
+// accept an isActive prop to edit the background color
+interface ButtonProps extends HTMLAttributes<HTMLAnchorElement> {
+    isActive?: boolean;
+}
+
+
 // This are the buttons that are used for the characters,
 // episodes, quotes, and deaths endpoints in the home page.
-const Button = styled.a`
+const Button = styled.a<ButtonProps>`
     &,
     &:link,
     &:visited {
         font-size: 2rem;
-        background-color: #00A86B;
+        background-color: ${props => props.isActive ? '#005A36': '#00A86B'};
         text-align: center;
         padding: 1.6rem 0; 
         border-radius: 15px;
@@ -44,7 +51,7 @@ const Button = styled.a`
     }
 
     &:hover {
-        background-color: #007A4D;
+        background-color: ${props => props.isActive ? '#005A36': '#007A4D'};
     }
 `
 
