@@ -25,7 +25,9 @@ export default class MyDocument extends Document {
           </>
         ),
       }
-      
+    } catch (error) {
+      //TODO handle error
+      console.error(error);
     } finally {
       sheet.seal();
     };
