@@ -123,8 +123,8 @@ function NavMenu(): JSX.Element {
     return (
         <NavList>
             <li>
-                <Link href="/categories">
-                    Categories
+                <Link href="/characters">
+                    Characters
                 </Link>
             </li>
             <li>
