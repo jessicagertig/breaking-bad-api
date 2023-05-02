@@ -5,17 +5,19 @@ import { Button, ButtonGroup } from "@/components/Buttons";
 import EndPointContainer, { Base, EndPoint } from "@/components/EndPoint";
 import FetchAPI from "@/components/FetchAPI";
 import { useState } from "react";
-import axios from "axios";
+
+import Character from '@/components/Character';
+import Episode from '@/components/Episode';
 
 // This is the component for the "/" route
 export default function Home(): JSX.Element {
 
     const [endPoint, setEndPoint] = useState("characters")
+    const [show, setShow] = useState(false);
 
-    const fetchRandom = async () => {
-        const response = await axios.get(`/api/${endPoint}/random`)
-        console.log(response.data);
-    };
+    const handleOnClick = () => {
+      setShow(true);
+    }
 
     return (
         <>
@@ -46,9 +48,11 @@ export default function Home(): JSX.Element {
                     <EndPoint>{endPoint}/random</EndPoint>
                 </EndPointContainer>
 
-                <FetchAPI onClick={fetchRandom}>
+                <FetchAPI onClick={handleOnClick}>
                     Fetch Random {endPoint[0].toUpperCase() + endPoint.slice(1, endPoint.length -1)}
                 </FetchAPI>
+                { endPoint === 'characters' && show && <Character /> } 
+                { endPoint === 'episodes' && show && <Episode /> }
             </MainBG>
         </>
     )
