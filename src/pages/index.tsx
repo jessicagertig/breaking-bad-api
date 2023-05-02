@@ -4,18 +4,22 @@ import MainHeader, { SecondaryHeader, HeaderContainer } from "@/components/Heade
 import { Button, ButtonGroup } from "@/components/Buttons";
 import EndPointContainer, { Base, EndPoint } from "@/components/EndPoint";
 import FetchAPI from "@/components/FetchAPI";
-import { useState } from "react";
+import { useState, useRef } from "react";
 
 import Character from '@/components/Character';
 import Episode from '@/components/Episode';
+import { RefetchHandle } from '@/types';
 
 // This is the component for the "/" route
 export default function Home(): JSX.Element {
 
     const [endPoint, setEndPoint] = useState("characters")
     const [show, setShow] = useState(false);
+    
+    const childComponentRef = useRef<RefetchHandle>(null);
 
     const handleOnClick = () => {
+      childComponentRef.current?.refetchQuery()
       setShow(true);
     }
 
@@ -51,8 +55,8 @@ export default function Home(): JSX.Element {
                 <FetchAPI onClick={handleOnClick}>
                     Fetch Random {endPoint[0].toUpperCase() + endPoint.slice(1, endPoint.length -1)}
                 </FetchAPI>
-                { endPoint === 'characters' && show && <Character /> } 
-                { endPoint === 'episodes' && show && <Episode /> }
+                { endPoint === 'characters' && show && <Character ref={childComponentRef} /> } 
+                { endPoint === 'episodes' && show && <Episode ref={childComponentRef} /> }
             </MainBG>
         </>
     )

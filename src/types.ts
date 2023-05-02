@@ -51,3 +51,7 @@ export interface Quote {
   production: string;
   episode: number;
 }
+
+export interface RefetchHandle {
+  refetchQuery: () => void;
+}
