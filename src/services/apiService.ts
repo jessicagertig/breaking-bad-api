@@ -1,9 +1,15 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 import { Character, Death, Episode, Quote } from '../types';
+import { HYDRATE } from 'next-redux-wrapper';
 
 export const apiService = createApi({
-  reducerPath: 'api',
-  baseQuery: fetchBaseQuery({ baseUrl: process.env.API_URL }),
+  reducerPath: 'apiService',
+  baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:3000/api/" }),
+  extractRehydrationInfo(action, { reducerPath }) {
+    if (action.type === HYDRATE) {
+      return action.payload[reducerPath]
+    }
+  },
   endpoints: (builder) => ({
     getCharacters: builder.query<Character[], void>({
       query: () => 'characters',
