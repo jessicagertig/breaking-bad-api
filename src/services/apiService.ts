@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 import { Character, Death, Episode, Quote } from '../types';
 import { HYDRATE } from 'next-redux-wrapper';
 
-export const apiService = createApi({
+export const api = createApi({
   reducerPath: 'apiService',
   baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:3000/api/" }),
   extractRehydrationInfo(action, { reducerPath }) {
@@ -41,4 +41,7 @@ export const apiService = createApi({
   }),
 });
 
-export const { useGetCharactersQuery, useGetRandomCharacterQuery, useGetCharacterByNameQuery, useGetRandomDeathQuery, useGetDeathsQuery, useGetRandomEpisodeQuery, useGetEpisodesQuery, useGetRandomQuoteQuery, useGetQuotesQuery } = apiService;
+export type Api = typeof api
+export const apiService: Api = api
+
+export const { useGetCharactersQuery, useGetRandomCharacterQuery, useGetCharacterByNameQuery, useGetRandomDeathQuery, useGetDeathsQuery, useGetRandomEpisodeQuery, useGetEpisodesQuery, useGetRandomQuoteQuery, useGetQuotesQuery, util: { getRunningQueriesThunk }, } = apiService;
