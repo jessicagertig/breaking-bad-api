@@ -4,18 +4,24 @@ import MainHeader, { SecondaryHeader, HeaderContainer } from "@/components/Heade
 import { Button, ButtonGroup } from "@/components/Buttons";
 import EndPointContainer, { Base, EndPoint } from "@/components/EndPoint";
 import FetchAPI from "@/components/FetchAPI";
-import { useState } from "react";
-import axios from "axios";
+import { useState, useRef } from "react";
+
+import Character from '@/components/Character';
+import Episode from '@/components/Episode';
+import { RefetchHandle } from '@/types';
 
 // This is the component for the "/" route
 export default function Home(): JSX.Element {
 
     const [endPoint, setEndPoint] = useState("characters")
+    const [show, setShow] = useState(false);
+    
+    const childComponentRef = useRef<RefetchHandle>(null);
 
-    const fetchRandom = async () => {
-        const response = await axios.get(`/api/${endPoint}/random`)
-        console.log(response.data);
-    };
+    const handleOnClick = () => {
+      childComponentRef.current?.refetchQuery()
+      setShow(true);
+    }
 
     return (
         <>
@@ -46,9 +52,11 @@ export default function Home(): JSX.Element {
                     <EndPoint>{endPoint}/random</EndPoint>
                 </EndPointContainer>
 
-                <FetchAPI onClick={fetchRandom}>
+                <FetchAPI onClick={handleOnClick}>
                     Fetch Random {endPoint[0].toUpperCase() + endPoint.slice(1, endPoint.length -1)}
                 </FetchAPI>
+                { endPoint === 'characters' && show && <Character ref={childComponentRef} /> } 
+                { endPoint === 'episodes' && show && <Episode ref={childComponentRef} /> }
             </MainBG>
         </>
     )
