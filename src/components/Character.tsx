@@ -25,7 +25,7 @@ const Character = forwardRef<RefetchHandle, CharacterProps>((props, ref) => {
   }
 
   const formattedData = data ? JSON.stringify(data, null, 2)
-    .replace(/"(\w+)":/g, '"<span>$1</span>":') : '<></>';
+  .replace(/"(\w+)":/g, '"<span>$1</span>":') : '';
 
   //Example to be overwritten by actual component
   return (

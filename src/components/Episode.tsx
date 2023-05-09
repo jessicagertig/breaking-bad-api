@@ -25,9 +25,9 @@ const Episode = forwardRef<RefetchHandle, EpisodeProps>((props, ref) => {
     return <div>Loading Episode...</div>
   }
   
-  const formattedData = JSON.stringify(data, null, 2)
-    .replace(/"(\w+)":/g, '"<span>$1</span>":');
-    
+  const formattedData = data ? JSON.stringify(data, null, 2)
+    .replace(/"(\w+)":/g, '"<span>$1</span>":') : '';
+
   //Example to be overwritten by actual component
   return (
     <DisplayData>
