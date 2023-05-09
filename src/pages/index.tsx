@@ -19,8 +19,8 @@ export default function Home(): JSX.Element {
     const childComponentRef = useRef<RefetchHandle>(null);
 
     const handleOnClick = () => {
-      childComponentRef.current?.refetchQuery()
-      setShow(true);
+        childComponentRef.current?.refetchQuery()
+        setShow(true);
     }
 
     return (
@@ -55,9 +55,9 @@ export default function Home(): JSX.Element {
                 <FetchAPI onClick={handleOnClick}>
                     Fetch Random {endPoint[0].toUpperCase() + endPoint.slice(1, endPoint.length -1)}
                 </FetchAPI>
-                { endPoint === 'characters' && show && <Character ref={childComponentRef} /> } 
-                { endPoint === 'episodes' && show && <Episode ref={childComponentRef} /> }
             </MainBG>
+            { endPoint === 'characters' && show && <Character ref={childComponentRef} /> } 
+            { endPoint === 'episodes' && show && <Episode ref={childComponentRef} /> }
         </>
     )
 }
