@@ -24,7 +24,7 @@ const Character = forwardRef<RefetchHandle, CharacterProps>((props, ref) => {
     return <div>Loading Character...</div>
   }
 
-  const formattedData = JSON.stringify(data, null, 2)
+  const formattedData = data && JSON.stringify(data, null, 2)
     .replace(/"(\w+)":/g, '"<span>$1</span>":');
 
   //Example to be overwritten by actual component
