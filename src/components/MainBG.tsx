@@ -12,6 +12,8 @@ const MainBG = styled.section`
     justify-content: center;
     align-items: center;
     color: #CCCCCC;
+    position: relative;
+    z-index: -100;
 
     @media only screen and (max-width: 1200px) {
         background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./breaking_bad_bg_1200.jpeg");
