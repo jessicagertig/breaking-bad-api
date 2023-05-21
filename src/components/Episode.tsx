@@ -14,11 +14,11 @@ const Episode = forwardRef<RefetchHandle, EpisodeProps>((props, ref) => {
 
   useEffect(() => {
     const scrollPosition = window.pageYOffset;
-    const scrollToPosition = scrollPosition === 0 ? window.innerHeight : scrollPosition + (window.innerHeight - scrollPosition);
+    const windowHeight = window.innerHeight * 0.8
+    const scrollToPosition = scrollPosition === 0 ? windowHeight : scrollPosition + (windowHeight - scrollPosition);
     if (data) {
       setTimeout(() => window.scrollTo({ top: scrollToPosition, behavior: 'smooth' }), 100)
     }
-
   }, [data])
 
   if (isLoading) {
