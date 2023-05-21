@@ -6,7 +6,8 @@ const FetchAPI = styled.a`
     &,
     &:link,
     &:visited {
-        margin-top: 10rem;
+        position: absolute;
+        bottom: 10vh;
         font-size: 3.2rem;
         color: #00A86B;
         cursor: pointer;
