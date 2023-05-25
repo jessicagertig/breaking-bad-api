@@ -36,3 +36,6 @@ next-env.d.ts
 
 # ignore dotenv file
 .env
+
+# nvm rc file
+.nvmrc
