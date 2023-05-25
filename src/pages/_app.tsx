@@ -11,9 +11,14 @@ import { updateScreenWidth } from '@/lib/redux/reducers/screenSize';
 // kind of like a template for all the other pages. 
 
 function MyApp({ Component, pageProps }: AppProps) {
+  if (typeof window !== 'undefined') {
+    window.logger = console.log.bind(window.console)
+  }
+
   const dispatch = useAppDispatch();
   //the first useEffect is necessary to get the initial screen width
   useEffect(() => {
+    window.logger("%c[useEffect] APP RENDERED", "color: #345fff");
     dispatch(updateScreenWidth({ width: window.innerWidth }));
   }, []);
 
