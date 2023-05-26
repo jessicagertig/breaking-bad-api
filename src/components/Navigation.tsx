@@ -20,6 +20,7 @@ const NavBar = styled.nav`
     align-items: center;
     color: #CCC;
     box-sizing: border-box;
+    z-index: 10;
 
     @media only screen and (max-width: 1200px) {
         background-color: #101010;
