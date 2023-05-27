@@ -1,11 +1,27 @@
-import { render, screen } from '@testing-library/react';
+import { screen } from '@testing-library/react';
 import Home from '@/pages/index';
 import userEvent from '@testing-library/user-event';
 
-test('correct child component display on click of fetch random', async () => {
-  render(<Home />)
-  expect(screen.getByText(char.endpoint)).toBeInTheDocument()
-  expect(screen.getByText(char.buttonText)).toBeInTheDocument()
+import { renderWithRedux } from '@/utils/testUtils'
+
+test('character component displays on click of fetch random character', async () => {
+  renderWithRedux(<Home />)
+  expect(screen.getByText('characters/random')).toBeInTheDocument()
+  expect(screen.getByText('Fetch Random Character')).toBeInTheDocument()
   
-  await userEvent.click(screen.getByText(char.buttonText))
+  await userEvent.click(screen.getByText('Fetch Random Character'))
+
+  expect(screen.getByText('Character')).toBeInTheDocument()
 })
+
+test('episode component displays on click of fetch random episode', async () => {
+  renderWithRedux(<Home />)
+  await userEvent.click(screen.getByText('Episodes'))
+  expect(screen.getByText('episodes/random')).toBeInTheDocument()
+  expect(screen.getByText('Fetch Random Episode')).toBeInTheDocument()
+  
+  await userEvent.click(screen.getByText('Fetch Random Episode'))
+
+  expect(screen.getByText('Episode')).toBeInTheDocument()
+})
+
