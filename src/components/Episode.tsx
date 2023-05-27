@@ -1,11 +1,12 @@
 import { forwardRef, useEffect, useImperativeHandle } from 'react';
+import dynamic from 'next/dynamic';
 import { useGetRandomEpisodeQuery } from '@/services/apiService';
 import { RefetchHandle } from '@/types';
 import DisplayData from './DisplayData';
 
 interface EpisodeProps {}
 
-const Episode = forwardRef<RefetchHandle, EpisodeProps>((props, ref) => {
+const EpisodeComponent = forwardRef<RefetchHandle, EpisodeProps>((props, ref) => {
   const { data, refetch, error, isLoading } = useGetRandomEpisodeQuery();
 
   useImperativeHandle(ref, () => ({
@@ -37,6 +38,10 @@ const Episode = forwardRef<RefetchHandle, EpisodeProps>((props, ref) => {
   )
 })
 
-Episode.displayName = 'Episode';
+const Episode = dynamic(() => Promise.resolve(EpisodeComponent), {
+  ssr: false
+})
+
+EpisodeComponent.displayName = 'EpisodeComponent';
 
 export default Episode

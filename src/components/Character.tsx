@@ -1,11 +1,13 @@
 import { forwardRef, useEffect, useImperativeHandle } from 'react';
+import dynamic from 'next/dynamic';
+
 import { useGetRandomCharacterQuery } from '@/services/apiService'
 import { RefetchHandle } from '@/types'
 import DisplayData from './DisplayData';
 
 interface CharacterProps {}
 
-const Character = forwardRef<RefetchHandle, CharacterProps>((props, ref) => {
+const CharacterComponent = forwardRef<RefetchHandle, CharacterProps>((props, ref) => {
   const { data, refetch, error, isLoading } = useGetRandomCharacterQuery();
 
   useImperativeHandle(ref, () => ({
@@ -37,6 +39,10 @@ const Character = forwardRef<RefetchHandle, CharacterProps>((props, ref) => {
   )
 })
 
-Character.displayName = 'Character';
+const Character = dynamic(() => Promise.resolve(CharacterComponent), {
+  ssr: false
+})
+
+CharacterComponent.displayName = 'CharacterComponent';
 
 export default Character
