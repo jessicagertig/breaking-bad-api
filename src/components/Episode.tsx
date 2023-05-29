@@ -1,12 +1,11 @@
 import { forwardRef, useEffect, useImperativeHandle } from 'react';
-import dynamic from 'next/dynamic';
 import { useGetRandomEpisodeQuery } from '@/services/apiService';
 import { RefetchHandle } from '@/types';
 import DisplayData from './DisplayData';
 
 interface EpisodeProps {}
 
-const EpisodeComponent = forwardRef<RefetchHandle, EpisodeProps>((props, ref) => {
+const Episode = forwardRef<RefetchHandle, EpisodeProps>((props, ref) => {
   const { data, refetch, error, isLoading } = useGetRandomEpisodeQuery();
 
   useImperativeHandle(ref, () => ({
@@ -29,7 +28,6 @@ const EpisodeComponent = forwardRef<RefetchHandle, EpisodeProps>((props, ref) =>
   const formattedData = data ? JSON.stringify(data, null, 2)
     .replace(/"(\w+)":/g, '"<span>$1</span>":') : '';
 
-  //Example to be overwritten by actual component
   return (
     <DisplayData>
       <h1>Episode</h1>
@@ -38,10 +36,6 @@ const EpisodeComponent = forwardRef<RefetchHandle, EpisodeProps>((props, ref) =>
   )
 })
 
-const Episode = dynamic(() => Promise.resolve(EpisodeComponent), {
-  ssr: false
-})
-
-EpisodeComponent.displayName = 'EpisodeComponent';
+Episode.displayName = 'Episode';
 
 export default Episode
