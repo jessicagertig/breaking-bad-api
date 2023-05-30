@@ -1,5 +1,4 @@
 import { forwardRef, useEffect, useImperativeHandle } from 'react';
-
 import { useGetRandomCharacterQuery } from '@/services/apiService'
 import { RefetchHandle } from '@/types'
 import DisplayData from './DisplayData';
@@ -15,10 +14,14 @@ const Character = forwardRef<RefetchHandle, CharacterProps>((props, ref) => {
 
   useEffect(() => {
     const scrollPosition = window.pageYOffset;
-    const windowHeight = window.innerHeight * 0.8
+    const windowHeight = window.innerHeight * 0.8;
     const scrollToPosition = scrollPosition === 0 ? windowHeight : scrollPosition + (windowHeight - scrollPosition);
+    let timer: ReturnType<typeof setTimeout>;
     if (data) {
-      setTimeout(() => window.scrollTo({ top: scrollToPosition, behavior: 'smooth' }), 100)
+      timer = setTimeout(() => window.scrollTo({ top: scrollToPosition, behavior: 'smooth' }), 100)
+    }
+    return () => {
+      clearTimeout(timer)
     }
   }, [data])
   
