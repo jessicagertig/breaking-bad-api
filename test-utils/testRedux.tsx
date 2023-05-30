@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import { wrapper, Store, makeStore } from '@/lib/redux/store';
+import { Store, makeStore } from '@/lib/redux/store';
 import { Provider } from 'react-redux';
 
 interface RenderWithReduxOptions {
@@ -20,14 +20,5 @@ function renderWithRedux(
     store,
   };
 }
-
-// function renderWithRedux(ui: React.ReactNode) {
-//   // Temporary component to render the given UI with the wrapper
-//   const WrappedComponent = () => <>{ui}</>;
-//   const WrappedWithRedux = wrapper.withRedux(WrappedComponent);
-
-//   // Render the wrapped component and return the result
-//   return render(<WrappedWithRedux />);
-// }
 
 export { renderWithRedux }
