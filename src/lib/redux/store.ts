@@ -29,7 +29,7 @@ export const makeStore = () =>
       getDefaultMiddleware().concat(apiService.middleware),
   });
 
-type Store = ReturnType<typeof makeStore>;
+export type Store = ReturnType<typeof makeStore>;
 
 export type RootState = ReturnType<Store['getState']>;
 export type AppDispatch = Store['dispatch'];

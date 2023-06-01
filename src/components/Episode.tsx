@@ -16,8 +16,12 @@ const Episode = forwardRef<RefetchHandle, EpisodeProps>((props, ref) => {
     const scrollPosition = window.pageYOffset;
     const windowHeight = window.innerHeight * 0.8
     const scrollToPosition = scrollPosition === 0 ? windowHeight : scrollPosition + (windowHeight - scrollPosition);
+    let timer: ReturnType<typeof setTimeout>;
     if (data) {
-      setTimeout(() => window.scrollTo({ top: scrollToPosition, behavior: 'smooth' }), 100)
+      timer = setTimeout(() => window.scrollTo({ top: scrollToPosition, behavior: 'smooth' }), 100)
+    }
+    return () => {
+      clearTimeout(timer)
     }
   }, [data])
 
@@ -28,7 +32,6 @@ const Episode = forwardRef<RefetchHandle, EpisodeProps>((props, ref) => {
   const formattedData = data ? JSON.stringify(data, null, 2)
     .replace(/"(\w+)":/g, '"<span>$1</span>":') : '';
 
-  //Example to be overwritten by actual component
   return (
     <DisplayData>
       <h1>Episode</h1>
