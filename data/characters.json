@@ -34,7 +34,7 @@
             "Nick the Greek",
             "Mr. Lambert"
         ],
-        "status": "Presumed dead",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [1, 2, 3, 4, 5],
             "better_call_saul": [6],
@@ -172,7 +172,7 @@
             "Uncle Hank",
             "ASAC Schrader"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [1, 2, 3, 4, 5],
             "better_call_saul": [5],
@@ -241,7 +241,7 @@
             "Barry Hedberg",
             "Duane"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [2, 3, 4, 5],
             "better_call_saul": [1, 2, 3, 4, 5, 6],
@@ -271,7 +271,7 @@
             "Gomie",
             "Gom"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [1, 2, 3, 4, 5],
             "better_call_saul": [5],
@@ -354,7 +354,7 @@
             "Kraze",
             "Sunday"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [1],
             "better_call_saul": [2, 3, 4, 5],
@@ -380,7 +380,7 @@
         ],
         "full_name": "Emilio Koyama",
         "aliases": [],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [1],
             "better_call_saul": [6],
@@ -718,7 +718,7 @@
             "H.O. Ward",
             "Max Schmeling"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [],
             "better_call_saul": [1, 2, 3, 4, 5, 6],
@@ -742,7 +742,7 @@
         ],
         "full_name": "Charles Lindbergh McGill Jr.",
         "aliases": [],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [],
             "better_call_saul": [1, 2, 3, 4, 6],
@@ -774,7 +774,7 @@
             "Nachito",
             "Martin Cavallo"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [],
             "better_call_saul": [1, 2, 3, 4, 5, 6],
