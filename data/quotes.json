@@ -43,440 +43,454 @@
     },
     {
         "quote_id": 7,
-        "quote": "I don't want him dickin' you around tonight. You get paid till 5, you work till 5, no later.",
+        "quote": "That is veggie bacon. Believe it or not, zero cholesterol and you won't even taste the difference.",
         "character": "Skyler White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
         "quote_id": 8,
+        "quote": "I don't want him dickin' you around tonight. You get paid till 5, you work till 5, no later.",
+        "character": "Skyler White",
+        "production": "Breaking Bad",
+        "episode": 101
+    },
+    {
+        "quote_id": 9,
         "quote": "I have an idea. How about buy a new hot water heater. How's that idea, for the millionth mbillionth time?",
         "character": "Walter Jr.",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 9,
+        "quote_id": 10,
         "quote": "I want real bacon, not this fake crap. This smells like band-aids.",
         "character": "Walter Jr.",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 10,
+        "quote_id": 11,
         "quote": "So, how's it feel to be old?",
         "character": "Walter Jr.",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 11,
+        "quote_id": 12,
         "quote": "Chemistry is the study of matter, but I prefer to see it as the study of change.",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 12,
+        "quote_id": 13,
         "quote": "What am I to do?",
         "character": "Bogdan",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 13,
+        "quote_id": 14,
         "quote": "Hey, Mr. White. Make those tires shine, uh?",
         "character": "Chad",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 14,
+        "quote_id": 15,
         "quote": "You would not believe who's cleaning Chad's car. Mr. White, from chemistry.",
         "character": "Chad's Girlfriend",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 15,
-        "quote": "Glock 22; that's my daily carry.",
-        "character": "Hank Schrader",
-        "production": "Breaking Bad",
-        "episode": 101
-    },
-    {
         "quote_id": 16,
-        "quote": "If you're gonna bring a gun, baby, you gotta bring enough gun.",
+        "quote": "Glock 22, that's my daily carry.",
         "character": "Hank Schrader",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
         "quote_id": 17,
-        "quote": "Looks like Keith Richards with a glass of warm milk.",
+        "quote": "If you're gonna bring a gun, baby, you gotta bring enough gun.",
         "character": "Hank Schrader",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
         "quote_id": 18,
-        "quote": "Walt, you got a brain the size of Wisconsin, but we're not gonna hold that against you.",
+        "quote": "Looks like Keith Richards with a glass of warm milk.",
         "character": "Hank Schrader",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
         "quote_id": 19,
-        "quote": "Damn, the TV does add 10 pounds.",
-        "character": "Steve Gomez",
+        "quote": "Walt, you got a brain the size of Wisconsin, but we're not gonna hold that against you.",
+        "character": "Hank Schrader",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
         "quote_id": 20,
-        "quote": "It's easy money... till we catch you.",
+        "quote": "I'm proud to say the outstanding professionalism of my fellow agents at the Albuquerque District Office resulted in a substantial amount of methamphetamine being taken off the streets.",
         "character": "Hank Schrader",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
         "quote_id": 21,
+        "quote": "Damn, the TV does add 10 pounds.",
+        "character": "Steve Gomez",
+        "production": "Breaking Bad",
+        "episode": 101
+    },
+    {
+        "quote_id": 22,
+        "quote": "It's easy money... till we catch you.",
+        "character": "Hank Schrader",
+        "production": "Breaking Bad",
+        "episode": 101
+    },
+    {
+        "quote_id": 23,
         "quote": "Mr. White, are you a smoker?",
         "character": "E.M.T.",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 22,
+        "quote_id": 24,
         "quote": "You understood what I've just said to you?",
         "character": "Dr. Belknap",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 23,
+        "quote_id": 25,
         "quote": "Are you here to work or to be staring at the skies?",
         "character": "Bogdan",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 24,
+        "quote_id": 26,
         "quote": "F*** you! And your eyebrows!",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 25,
+        "quote_id": 27,
         "quote": "Wipe down this!",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 26,
+        "quote_id": 28,
         "quote": "My fault the only word your dumb ass knows is \"green\"?",
         "character": "Steve Gomez",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 27,
+        "quote_id": 29,
         "quote": "Captain Cook, that's a white boy's name.",
         "character": "Steve Gomez",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 28,
+        "quote_id": 30,
         "quote": "Cheer up, Gomey. You people still got J Lo.",
         "character": "Hank Schrader",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 29,
+        "quote_id": 31,
         "quote": "You know the business, and I know the chemistry.",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 30,
+        "quote_id": 32,
         "quote": "At this rate, in 50 or 60 years you'll be rich.",
         "character": "Marie Schrader",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 31,
-        "quote": "If you ever want me to read anything, I could critique it for you.",
+        "quote_id": 33,
+        "quote": "Ever want me to read anything, I could critique it for you.",
         "character": "Marie Schrader",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 32,
+        "quote_id": 34,
         "quote": "How's the sex?",
         "character": "Marie Schrader",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 33,
+        "quote_id": 35,
         "quote": "Did you learn nothing from my chemistry class?",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 34,
+        "quote_id": 36,
         "quote": "This ain't chemistry. K, this is art. Cooking is art. And the shit I cook is the bomb, so don't be tellin' me.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 35,
+        "quote_id": 37,
         "quote": "The shit you cook, is shit.",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 36,
+        "quote_id": 38,
         "quote": "You and I will not make garbage. We will produce a chemically pure and stable product that performs as advertised. No adulterants. No baby formula. No chili powder.",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 37,
+        "quote_id": 39,
         "quote": "Chili P's my signature.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 38,
+        "quote_id": 40,
         "quote": "You can dress up like a faggot if you want, not me.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 39,
+        "quote_id": 41,
         "quote": "I don't shit where I eat.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 40,
+        "quote_id": 42,
         "quote": "This is all the money I have in the world. You're a drug dealer. Negotiate.",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 41,
+        "quote_id": 43,
         "quote": "Nah, come on! Man, some straight like you, giant stick up his ass, all of a sudden at age, what, 60, he’s just going to break bad?",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 42,
+        "quote_id": 44,
         "quote": "I am awake.",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 43,
+        "quote_id": 45,
         "quote": "Mama, could you zip up my big boy pants?",
         "character": "Jock",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 44,
+        "quote_id": 46,
         "quote": "You know what? Don't even look at them. They're obviously very stupid.",
         "character": "Skyler White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 45,
+        "quote_id": 47,
         "quote": "What's wrong, Chief? Having a little trouble walking?",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 46,
+        "quote_id": 48,
         "quote": "I'll mess you up, man.",
         "character": "Jock",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 47,
+        "quote_id": 49,
         "quote": "What, are you waiting for your girlfriends? You better go. You better go. Take it. Take the shot. Take it!",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 48,
+        "quote_id": 50,
         "quote": "Psycho.",
         "character": "Jock",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 49,
+        "quote_id": 51,
         "quote": "Yeah, nothing but cows. Got some big cow house way out that way like two miles but, I don't see nobody.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 50,
+        "quote_id": 52,
         "quote": "Yeah. Where they live. The cows.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 51,
+        "quote_id": 53,
         "quote": "Cow house. God help me.",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 52,
+        "quote_id": 54,
         "quote": "Those? Wow. Those uh, you're keeping those on, right?",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 53,
+        "quote_id": 55,
         "quote": "This is a good look for you. And you're maybe only the world's second biggest homo.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 54,
+        "quote_id": 56,
         "quote": "This is art, Mr. White.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 55,
+        "quote_id": 57,
         "quote": "Every jibhead from here to Timbuktu's gonna want a taste.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 56,
+        "quote_id": 58,
         "quote": "We only sell it. We don't use it.",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 57,
+        "quote_id": 59,
         "quote": "I had a dog like that once, except maybe like twice as big. Super pure-bred.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 58,
+        "quote_id": 60,
         "quote": "Me personally, I would train him to go straight for the, uh, nutsack.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 59,
+        "quote_id": 61,
         "quote": "Shut your mouth and show me your money.",
         "character": "Krazy-8",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 60,
+        "quote_id": 62,
         "quote": "I ain't buyin', ése. I'm sellin'.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 61,
+        "quote_id": 63,
         "quote": "Tell me that ain't the finest scante you ever laid eyes on.",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 62,
+        "quote_id": 64,
         "quote": "Go ahead, pendejo. Kick my ass.",
         "character": "Emilio",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 63,
+        "quote_id": 65,
         "quote": "Where did you get this? Huh? Cuz I know your little punk ass didn't cook it.",
         "character": "Krazy-8",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 64,
+        "quote_id": 66,
         "quote": "That's some stone-fine tick-tick you been cookin' there, ése. How 'bout you come work for me?",
         "character": "Krazy-8",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 65,
+        "quote_id": 67,
         "quote": "I say we cap 'em both.",
         "character": "Emilio",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 66,
+        "quote_id": 68,
         "quote": "You're an artist. It's a damn shame.",
         "character": "Krazy-8",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 67,
+        "quote_id": 69,
         "quote": "Move it, homes. Ain't got all day.",
         "character": "Krazy-8",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 68,
+        "quote_id": 70,
         "quote": "We gotta clean this up.",
         "character": "Walter White",
         "production": "Breaking Bad",
         "episode": 101
     },
     {
-        "quote_id": 69,
+        "quote_id": 71,
         "quote": "Walt, is that you?",
         "character": "Skyler White",
         "production": "Breaking Bad",
@@ -610,7 +624,7 @@
     },
     {
         "quote_id": 88,
-        "quote": "What kind of reason? You mean like, \"Dear Krazy-8, hey, listen, if I let you go, will you promise not to come back and waste my entire family? No Colombian neckties?\" You mean that kind of reason?",
+        "quote": "What kind of reason? You mean like, 'Dear Krazy-8, hey, listen, if I let you go, will you promise not to come back and waste my entire family? No Colombian neckties?' You mean that kind of reason?",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 102
@@ -645,7 +659,7 @@
     },
     {
         "quote_id": 93,
-        "quote": "Like I came to you begging to cook meth. \"Oh, hey, nerdiest old dude I know, you wanna come cook crystal?\" Please. \"I'd ask my diaper-wearing granny but her wheelchair wouldn't fit in the RV.\"",
+        "quote": "Like I came to you begging to cook meth. 'Oh, hey, nerdiest old dude I know, you wanna come cook crystal?' Please. 'I'd ask my diaper-wearing granny but her wheelchair wouldn't fit in the RV.'",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 102
@@ -785,7 +799,7 @@
     },
     {
         "quote_id": 113,
-        "quote": "Just, I don't know, make sure to feed him, like, three times a day.",
+        "quote": "'Just, I don't know, make sure to feed him, like, three times a day.'",
         "character": "Jesse Pinkman",
         "production": "Breaking Bad",
         "episode": 102
@@ -1023,7 +1037,7 @@
     },
     {
         "quote_id": 147,
-        "quote": "When legal forces have you cornered, better call Saul.",
+        "quote": "When legal forces have you cornered, Better Call Saul!",
         "character": "Jimmy McGill",
         "production": "Better Call Saul",
         "episode": 101
@@ -1072,7 +1086,7 @@
     },
     {
         "quote_id": 154,
-        "quote": "I bet if we were in church right now, I'd get a big \"Amen.\"",
+        "quote": "I bet if we were in church right now, I'd get a big 'Amen.'",
         "character": "Jimmy McGill",
         "production": "Better Call Saul",
         "episode": 101
@@ -1128,14 +1142,14 @@
     },
     {
         "quote_id": 162,
-        "quote": "Does this steaming pile of crap scream \"payday\" to you, huh?",
+        "quote": "Does this steaming pile of crap scream 'payday' to you, huh?",
         "character": "Jimmy McGill",
         "production": "Better Call Saul",
         "episode": 101
     },
     {
         "quote_id": 163,
-        "quote": "The only way that entire car is worth 500 bucks is if there's a $300 hooker sitting in it.",
+        "quote": "The only way that entire car is worth 500 bucks is if there's a $300 hooker sittin' in it.",
         "character": "Jimmy McGill",
         "production": "Better Call Saul",
         "episode": 101
@@ -1244,5 +1258,166 @@
         "character": "Jimmy McGill",
         "production": "Better Call Saul",
         "episode": 101
+    },
+    {
+        "quote_id": 300,
+        "quote": "You know he's not gonna be happy.",
+        "character": "Jesse Pinkman",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 301,
+        "quote": "Only you can decide what's best for you, Jesse. Not him, not me.",
+        "character": "Mike Ehrmantraut",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 302,
+        "quote": "I'm out.",
+        "character": "Jesse Pinkman",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 303,
+        "quote": "Where would you go, if you were me?",
+        "character": "Jesse Pinkman",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 304,
+        "quote": "If I were your age, starting fresh, Alaska. It's the last frontier. Up there, you could be anything you want.",
+        "character": "Mike Ehrmantraut",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 305,
+        "quote": "Sorry, kid, that's the one thing you can never do.",
+        "character": "Mike Ehrmantraut",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 306,
+        "quote": "This thing's, like, defective and shit.",
+        "character": "Skinny Pete",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 307,
+        "quote": "It's a bad carpenter that blames his hammer, yo.",
+        "character": "Badger",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 308,
+        "quote": "I'm apexing at the apex, bitch. Don't be tellin' me how to drive and shit.",
+        "character": "Skinny Pete",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 309,
+        "quote": "You couldn't drive a two-button elevator.",
+        "character": "Skinny Pete",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 310,
+        "quote": "You couldn't drive a short bus full of slow kids to the zoo.",
+        "character": "Skinny Pete",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 311,
+        "quote": "You drive like a blind guy with no legs.",
+        "character": "Badger",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 312,
+        "quote": "I gotta get that car off the street.",
+        "character": "Jesse Pinkman",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 313,
+        "quote": "It's us, Jesse, you're safe.",
+        "character": "Skinny Pete",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 314,
+        "quote": "My stuff's gonna fit you like a T, yo.",
+        "character": "Skinny Pete",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 315,
+        "quote": "Can't help it that I'm sized for love.",
+        "character": "Badger",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 316,
+        "quote": "Did they really keep you in a cage?",
+        "character": "Badger",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 317,
+        "quote": "Lookin' sharp, yo.",
+        "character": "Badger",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 318,
+        "quote": "Go for Joe.",
+        "character": "Joe",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 319,
+        "quote": "It's on the house.",
+        "character": "Joe",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 320,
+        "quote": "Look, Johnny Law is on his way, as in here, as in now, so farewell, goodbye, regrets, etcetera etcetera.",
+        "character": "Joe",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 321,
+        "quote": "I always wanted me an El Camino. And that's church, yo.",
+        "character": "Skinny Pete",
+        "production": "El Camino",
+        "episode": 000
+    },
+    {
+        "quote_id": 322,
+        "quote": "Dude, you're my hero and shit.",
+        "character": "Skinny Pete",
+        "production": "El Camino",
+        "episode": 000
     }
 ]
