@@ -12,7 +12,7 @@
         "production": "Breaking Bad"
     },
     {
-        "death_id": 0,
+        "death_id": 2,
         "character": "Walter White",
         "image": "https://static.wikia.nocookie.net/breakingbad/images/9/9e/Walt%27s_Death.png/revision/latest?cb=20221121191611",
         "cause": "M60 Machine Gun & Cancer",
@@ -21,6 +21,78 @@
         "connected": ["Jesse Pinkman", "Jack Welker"],
         "last_words": "Well, erm... goodbye, Lydia.",
         "episode": 516,
+        "production": "Breaking Bad"
+    },
+    {
+        "death_id": 3,
+        "character": "Krazy-8",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/8/8a/1x03_-_Walt_kills_Krazy_8.jpg/revision/latest?cb=20120210204920",
+        "cause": "Bike Lock",
+        "details": "Strangled to death with a bicycle lock for trying to stab Walter White.",
+        "responsible": ["Walter White"],
+        "connected": [],
+        "last_words": "Unlock me, Walter.",
+        "episode": 103,
+        "production": "Breaking Bad"
+    },
+    {
+        "death_id": 4,
+        "character": "Hank Schrader",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/1/13/BB_514_UC_0226_0461.jpg/revision/latest?cb=20220610214103",
+        "cause": "Browning Hi-Power Handgun",
+        "details": "Shot once in the head after a shootout with Jack Welker's gang.",
+        "responsible": ["Jack Welker"],
+        "connected": [],
+        "last_words": "Do what you're gonna do.",
+        "episode": 514,
+        "production": "Breaking Bad"
+    },
+    {
+        "death_id": 5,
+        "character": "Steve Gomez",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/3/31/Bb-ozymandias-5x14-gomezdead.png/revision/latest?cb=20130916040240",
+        "cause": "M4A1 Carbine, AA-12, Browning Hi-Power, Ruger KP95",
+        "details": "Shot several times during a shootout with Jack Welker's gang.",
+        "responsible": ["Jack Welker", "Todd", "Kenny", "Matt", "Frankie", "Lester"],
+        "connected": [],
+        "last_words": "You heard the man! Put ‘em down!",
+        "episode": 514,
+        "production": "Breaking Bad"
+    },
+    {
+        "death_id": 6,
+        "character": "Chuck McGill",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/f/f0/BCS_310_21.png/revision/latest?cb=20170622160042",
+        "cause": "Fire",
+        "details": "Suicide by fire after being bought out by Hamlin, Hamlin & McGill (HHM) and having his credibility destroyed by Jimmy McGill.",
+        "responsible": ["Chuck McGill"],
+        "connected": [],
+        "last_words": "Thank you, goodbye.",
+        "episode": 310,
+        "production": "Better Call Saul"
+    },
+    {
+        "death_id": 7,
+        "character": "Howard Hamlin",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/b/bf/HowardDeath.png/revision/latest?cb=20220524094435",
+        "cause": "Heckler & Koch P7",
+        "details": "Shot in the head due to seeing Lalo Salamanca's face and to avoid leaving any trace of his whereabouts.",
+        "responsible": ["Walter White"],
+        "connected": ["Jesse Pinkman", "Jack Welker"],
+        "last_words": "I, uh... I think I'm in the middle of something, uh... There's really no need to—",
+        "episode": 607,
+        "production": "Better Call Saul"
+    },
+    {
+        "death_id": 8,
+        "character": "Mike Ehrmantraut",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/b/b0/Episode-7-mike-2-5021349857203498572349087.jpg/revision/latest?cb=20170716215245",
+        "cause": "Taurus Model 605",
+        "details": "Shot once in the gut and bled out. Killed for refusing to give the names of his men to Walter White and for insulting him.",
+        "responsible": ["Walter White"],
+        "connected": [],
+        "last_words": "Shut the f*** up, and let me die in peace.",
+        "episode": 507,
         "production": "Breaking Bad"
     }
 ]
