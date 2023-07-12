@@ -82,5 +82,17 @@
         "last_words": "I, uh... I think I'm in the middle of something, uh... There's really no need to—",
         "episode": 607,
         "production": "Better Call Saul"
+    },
+    {
+        "death_id": 8,
+        "character": "Mike Ehrmantraut",
+        "image": "https://static.wikia.nocookie.net/breakingbad/images/b/b0/Episode-7-mike-2-5021349857203498572349087.jpg/revision/latest?cb=20170716215245",
+        "cause": "Taurus Model 605",
+        "details": "Shot once in the gut and bled out. Killed for refusing to give the names of his men to Walter White and for insulting him.",
+        "responsible": ["Walter White"],
+        "connected": [],
+        "last_words": "Shut the f*** up, and let me die in peace.",
+        "episode": 507,
+        "production": "Breaking Bad"
     }
 ]
