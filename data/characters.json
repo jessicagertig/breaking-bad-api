@@ -14,8 +14,12 @@
         "images": [
             "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
             "https://static.wikia.nocookie.net/breakingbad/images/e/e7/BB-S5B-Walt-590.jpg/revision/latest?cb=20130928055404",
+            "https://static.wikia.nocookie.net/breakingbad/images/4/4a/Season_2_promo_pic_6.jpg/revision/latest?cb=20120617212256",
             "https://static.wikia.nocookie.net/breakingbad/images/b/b4/Walter_2008.png/revision/latest?cb=20200704164147",
-            "https://static.wikia.nocookie.net/breakingbad/images/d/d1/Season_4_-_Walt.jpg/revision/latest?cb=20220805224819"
+            "https://static.wikia.nocookie.net/breakingbad/images/e/ea/Season_4_-_Heisenberg.jpg/revision/latest?cb=20110817002354",
+            "https://static.wikia.nocookie.net/breakingbad/images/d/d1/Season_4_-_Walt.jpg/revision/latest?cb=20220805224819",
+            "https://static.wikia.nocookie.net/breakingbad/images/5/57/Walter_White_5A_Promotional_Image.jpg/revision/latest?cb=20221207180019",
+            "https://static.wikia.nocookie.net/breakingbad/images/c/c0/WaltS5.jpg/revision/latest?cb=20120620012205"
         ],
         "full_name": "Walter Hartwell White Sr.",
         "aliases": [
@@ -30,7 +34,7 @@
             "Nick the Greek",
             "Mr. Lambert"
         ],
-        "status": "Presumed dead",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [1, 2, 3, 4, 5],
             "better_call_saul": [6],
@@ -52,6 +56,8 @@
         ],
         "images": [
             "https://vignette.wikia.nocookie.net/breakingbad/images/9/95/JesseS5.jpg/revision/latest?cb=20120620012441",
+            "https://static.wikia.nocookie.net/breakingbad/images/a/af/Season_2_promo_%284%29.jpg/revision/latest?cb=20120617212255",
+            "https://static.wikia.nocookie.net/breakingbad/images/5/56/Season_2_promo_%285%29.jpg/revision/latest?cb=20120617212255",
             "https://static.wikia.nocookie.net/breakingbad/images/0/05/Season_2_-_Jesse.jpg/revision/latest?cb=20090617154632",
             "https://static.wikia.nocookie.net/breakingbad/images/9/98/Season_4_-_Jesse.jpg/revision/latest?cb=20110620212155",
             "https://static.wikia.nocookie.net/breakingbad/images/c/ca/Jesse_Season_5B.jpg/revision/latest?cb=20220611094739",
@@ -92,10 +98,12 @@
         ],
         "images": [
             "https://s-i.huffpost.com/gen/1317262/images/o-ANNA-GUNN-facebook.jpg",
+            "https://static.wikia.nocookie.net/breakingbad/images/9/94/Season_2_Promo_pic_9.jpg/revision/latest?cb=20120617212257",
             "https://static.wikia.nocookie.net/breakingbad/images/b/b7/Skyler_1993.png/revision/latest?cb=20180826093153",
             "https://static.wikia.nocookie.net/breakingbad/images/4/40/Season_2_-_Skyler.jpg/revision/latest?cb=20090617160516",
             "https://static.wikia.nocookie.net/breakingbad/images/1/10/Season_4_-_Skyler.jpg/revision/latest?cb=20110620221324",
-            "https://static.wikia.nocookie.net/breakingbad/images/d/df/Skyler_2010.png/revision/latest?cb=20220827145842"
+            "https://static.wikia.nocookie.net/breakingbad/images/d/df/Skyler_2010.png/revision/latest?cb=20220827145842",
+            "https://static.wikia.nocookie.net/breakingbad/images/0/07/SkylerS5.jpg/revision/latest?cb=20120620012707"
         ],
         "full_name": "Skyler White",
         "aliases": [
@@ -164,7 +172,7 @@
             "Uncle Hank",
             "ASAC Schrader"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [1, 2, 3, 4, 5],
             "better_call_saul": [5],
@@ -233,7 +241,7 @@
             "Barry Hedberg",
             "Duane"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [2, 3, 4, 5],
             "better_call_saul": [1, 2, 3, 4, 5, 6],
@@ -263,7 +271,7 @@
             "Gomie",
             "Gom"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [1, 2, 3, 4, 5],
             "better_call_saul": [5],
@@ -346,7 +354,7 @@
             "Kraze",
             "Sunday"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [1],
             "better_call_saul": [2, 3, 4, 5],
@@ -367,12 +375,12 @@
             "Low-Level Meth Distributor"
         ],
         "images": [
-            "https://static.wikia.nocookie.net/breakingbad/images/b/be/Emilio_Koyama_2004.png/revision/latest?cb=20220809095927",
-            "https://static.wikia.nocookie.net/breakingbad/images/5/5b/Emilio_Koyama_3.jpg/revision/latest?cb=20200529164900"
+            "https://static.wikia.nocookie.net/breakingbad/images/5/5b/Emilio_Koyama_3.jpg/revision/latest?cb=20200529164900",
+            "https://static.wikia.nocookie.net/breakingbad/images/b/be/Emilio_Koyama_2004.png/revision/latest?cb=20220809095927"
         ],
         "full_name": "Emilio Koyama",
         "aliases": [],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [1],
             "better_call_saul": [6],
@@ -421,7 +429,7 @@
             "Owner of A1A Car Wash"
         ],
         "images": [
-            "https://static.wikia.nocookie.net/breakingbad/images/0/05/Bogdan_2008.png/revision/latest?cb=20221128234140",
+            "https://i.imgur.com/kHmalqg.png",
             "https://static.wikia.nocookie.net/breakingbad/images/9/9b/Bogdan_Wolynetz2.jpg/revision/latest?cb=20210916181818"
         ],
         "full_name": "Bogdan Wolynetz",
@@ -588,6 +596,8 @@
             "Money Launderer"
         ],
         "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/a/a4/Saul_S5b.jpg/revision/latest?cb=20220805224627",
+            "https://static.wikia.nocookie.net/breakingbad/images/c/c9/SaulS5.jpg/revision/latest?cb=20120620015329",
             "https://static.wikia.nocookie.net/breakingbad/images/3/32/Saul2007.png/revision/latest?cb=20221207181238",
             "https://static.wikia.nocookie.net/breakingbad/images/5/57/Saul_S4.jpg/revision/latest?cb=20220424103535"
         ],
@@ -620,7 +630,9 @@
             "Independent Elder Law Attorney"
         ],
         "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/2/2e/Jimmy-Saul_BCS_Season_6_promo.jpg/revision/latest?cb=20220825130900",
             "https://static.wikia.nocookie.net/breakingbad/images/5/56/BCS_S3_JimmyMcGill.jpg/revision/latest?cb=20170327184952",
+            "https://static.wikia.nocookie.net/breakingbad/images/1/13/Jimmy_McGill_infobox.jpg/revision/latest?cb=20220825130932",
             "https://static.wikia.nocookie.net/breakingbad/images/8/8e/BCS_S6_Portrait_Jimmy.jpg/revision/latest?cb=20220802210840",
             "https://static.wikia.nocookie.net/breakingbad/images/3/3d/BCS_S4_Jimmy_McGill.jpg/revision/latest?cb=20180824195816",
             "https://static.wikia.nocookie.net/breakingbad/images/2/24/S5_Jimmy.png/revision/latest?cb=20200302223630"
@@ -706,7 +718,7 @@
             "H.O. Ward",
             "Max Schmeling"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [],
             "better_call_saul": [1, 2, 3, 4, 5, 6],
@@ -730,7 +742,7 @@
         ],
         "full_name": "Charles Lindbergh McGill Jr.",
         "aliases": [],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [],
             "better_call_saul": [1, 2, 3, 4, 6],
@@ -762,7 +774,7 @@
             "Nachito",
             "Martin Cavallo"
         ],
-        "status": "Deceased",
+        "status": "Dead",
         "appearance": {
             "breaking_bad": [],
             "better_call_saul": [1, 2, 3, 4, 5, 6],
@@ -771,6 +783,93 @@
         "portrayed_by": "Michael Mano",
         "productions": [
             "Better Call Saul"
+        ]
+    },
+    {
+        "character_id": 116,
+        "name": "Skinny Pete",
+        "birthday": "1980",
+        "occupations": [
+            "Low-Level Meth Distributor"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/2/2d/Cast_bb_800x600_skinny-pete.jpg/revision/latest?cb=20191101152923",
+            "https://static.wikia.nocookie.net/breakingbad/images/1/17/Skinny_Pete_El_Camino.jpeg/revision/latest?cb=20191110203907"
+        ],
+        "full_name": "Peter",
+        "aliases": [
+            "Skinny Pete",
+            "Pete",
+            "Skin",
+            "Skinny"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 2, 3, 4, 5],
+            "better_call_saul": [],
+            "el_camino": [1]
+        },
+        "portrayed_by": "Charles Baker",
+        "productions": [
+            "Breaking Bad",
+            "El Camino"
+        ]
+    },
+    {
+        "character_id": 117,
+        "name": "Badger",
+        "birthday": "1984",
+        "occupations": [
+            "Part-time Walking Billboard",
+            "Low-Level Meth Distributor"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/5/5b/Cast_bb_800x600_badger.jpg/revision/latest?cb=20191101152834",
+            "https://static.wikia.nocookie.net/breakingbad/images/8/8e/Badger_El_Camino.jpeg/revision/latest?cb=20191110204106"
+        ],
+        "full_name": "Brandon Mayhew",
+        "aliases": [
+            "Badger",
+            "Beaver",
+            "Badger Mayhew"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [1, 2, 3, 4, 5],
+            "better_call_saul": [],
+            "el_camino": [1]
+        },
+        "portrayed_by": "Matt Jones",
+        "productions": [
+            "Breaking Bad",
+            "El Camino"
+        ]
+    },
+    {
+        "character_id": 118,
+        "name": "Joe",
+        "birthday": "Unknown",
+        "occupations": [
+            "Junkyard Owner"
+        ],
+        "images": [
+            "https://static.wikia.nocookie.net/breakingbad/images/a/a0/Old_joe_2009.png/revision/latest?cb=20220610092318",
+            "https://static.wikia.nocookie.net/breakingbad/images/6/67/Old_Joe_El_Camino.jpeg/revision/latest?cb=20191110204401"
+        ],
+        "full_name": "Joe",
+        "aliases": [
+            "Old Joe"
+        ],
+        "status": "Alive",
+        "appearance": {
+            "breaking_bad": [3, 5],
+            "better_call_saul": [],
+            "el_camino": [1]
+        },
+        "portrayed_by": "Larry Hankin",
+        "productions": [
+            "Breaking Bad",
+            "El Camino"
         ]
     }
 ]
